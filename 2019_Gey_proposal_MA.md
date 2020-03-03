@@ -46,9 +46,7 @@ Week | Task | Methods and Tools | Comments
 03-05 | conducting and transcribing interviews | notetaking, recording device, transcription tool (easytranscript) |
 04-08 | data analysis | open coding (Corbin & Strauss 1990), focused coding (Emerson 2011), qualitative content analysis (Kohlbacher 2006, Krippendorff 2012, Mayring 2000), QDA tool (?) |
 08-16 | Writing | LateX text editor, reference management system |
-<<<<<<< HEAD
 16-17 | Proofreading and Submission |   |  
-=======
 16-17 | Proofreading and Submission |   |
 
 # References
