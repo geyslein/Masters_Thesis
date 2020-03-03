@@ -1,14 +1,14 @@
 ---
 title: Proposal Master's Thesis. "Seeking Research Software. A Qualitative Study of Humanities Scholars' Information Seeking Behavior."
 author: 'Ronny Gey (M24), geyronny@hu-berlin.de'
-geometry: margin=3cm
+geometry: margin=3cm  
 ---
 
 # Introduction
 
 Today, software is a central component of science. Throughout the entire research life cycle, researchers use software tools for data collection, transformation, analysis and presentation as well as for generating hypotheses, managing literature and writing scientific papers (Kethers et al 2017, Pan et al 2016, Wolski 2017). Software has changed the way we actually do science. The complexity of the analyses carried out by researchers has increased, as has the amount of data that researchers can process. Software supports the documentation of the research process and enables reproducibility (Dallmeier-Tiessen 2016, Waltemath & Wolkenhauer 2016) and accuracy of results.
 
-Due to the increased importance of research software for research (Katz 2017) and the increase in the sheer number of software, it is all the more important for researchers to identify suitable software and select the one which best fits the research problem, the actual step in the research process, or the research data which has to be processed, and, in consequence, which satisfies the researchers information need. In addition to increased efforts, difficulties in seeking software can also endanger the scientific reproducibility of studies or even lead to multiple developments of software with similar or identical functions (Hucka and Graham 2018).
+Due to the increased importance of research software for research (Katz 2017) and the increase in the sheer number of software, it is all the more important for researchers to identify suitable software and select the one which best fits the research problem, the actual step in the research process, or the research data which has to be processed, and, in consequence, which satisfies the researchers information need. In addition to increased efforts, difficulties in seeking software can also endanger the scientific reproducibility of studies or even lead to multiple developments of software with identical functions instead of reusing existing software (Hucka and Graham 2018).
 
 The information seeking behaviour of researchers is generally of great interest within the field of information behaviour (e.g. Ahmadianyazdi & Chandrashekara 2018, Barrett 2005, Campbell 2017, Catalano 2013, Ellis 1993, Hemminger et al. 2007, Korobili et al. 2011, Liyana & Noorhidawati 2017, Rupp-Serrano & Robbins 2013, Wang et al. 2008). However, seeking software is still rather challenging for researchers (Howison & Bullard 2016). In a recent study, Hucka & Graham (2018, p. 2) surveyed scientists and engineers from several fields to better understand their approaches and selection criteria for seeking software. They found out that "_finding software suitable for a given purpose remains surprisingly difficult_". Even in the domain of software development, the main challenge for software reuse are difficulties in finding software artifacts as Bauer et al. (2014) revealed in a study on code reuse at Google. Grossmann et al. (2009) identified users unawareness of specific software tools. These results are all the more surprising because the participants in the cited studies come from a group with a greater affinity for software (software developers, engineers).
 
@@ -18,23 +18,25 @@ The information-seeking behaviour of humanities scholars in general has been add
 
 # Problem and Research Questions
 
-The aim of this work is to investigate the information-seeking behaviour of humanities scholars when seeking research software and to compare it with their information-seeking behaviour in regard to literature. Special emphasis will be placed on the respondents' recourse to their own research process and the knowledge and practice structures in their field.
+The aim of this work is to investigate the information-seeking behaviour of early-career philologists when seeking a specific type of research software (text analysis software). Special emphasis will be placed on the respondents' recourse to their own research process and the knowledge and practice structures in their field.
 
-__RQ1__: What differences and similarities exist in the information-seeking behaviour of humanities scholars between the seeking for literature and the seeking for software?
+__RQ1__: How do humanists seek for research software?
 
 __RQ2__: Which factors explain the differences in the information-seeking behaviour?
 
-The work is based on Wilson's (2000) understanding of information-seeking behaviour which he defines as: "_a purposive process of seeking information as a consequence of a need to satisfy some goals_". The empirical work will be guided by either Ellis' (1989), Kuhlthaus (1991), Wilsons (1997), or Niedźwiedzka (2003)  information(-seeking) behaviour model. The decision depends on various factors, which have yet to be examined: (1) The effort of working with the model should correspond to the total amount of work available for the master's thesis. (2) A possible sharpening of the research question in the conceptual phase can shift the focus in favour of certain aspects that are represented to varying degrees in the models. (3) Interview data as well as (4) the choice of a certain analysis method (qualitative content analysis) could encourage the use of a particular model
+The work is based on Wilson's (2000) understanding of information-seeking behaviour which he defines as: "_a purposive process of seeking information as a consequence of a need to satisfy some goals_". The empirical work will be guided by either Ellis' (1989), Kuhlthaus (1991), Wilsons (1997), or Niedźwiedzka (2003) information(-seeking) behaviour model. 
+
+_[old:The decision depends on various factors, which have yet to be examined: (1) The effort of working with the model should correspond to the total amount of work available for the master's thesis. (2) A possible sharpening of the research question in the conceptual phase can shift the focus in favour of certain aspects that are represented to varying degrees in the models. (3) Interview data as well as (4) the choice of a certain analysis method (qualitative content analysis) could encourage the use of a particular model.]_
 
 # Methods
 
-I chose an exploratory study design (Rinsdorf 2013) where the personal realm of experience of each interviewee lies in the center of the analysis. Interviews are the main data gathering technique which are applied in a semi-structured manner, guided by interview guidelines, and implemented in a face-to-face manner (Bryman 2004) in German language. With the interviews I obtain emotions, thoughts, and intentions of the participants and discover their perspective of the social world (Patton 2002). The interview data will be analyzed with a qualitative content analysis to explore qualified hypotheses (Kohlbacher 2006, Krippendorff 2012, Mayring 2000). It enables the researcher to include textual information and to identify its properties systematically. I will make all data generated during the concept, survey, analysis, and writing phases publicly available on GitHub[^1], as long as it meets research ethics standards (e.g. interview audio records and unanonymized interview transcripts will be excluded).
+I chose an exploratory study design (Rinsdorf 2013) where the personal realm of experience of each interviewee lies in the center of the analysis. Interviews are the main data gathering technique which are applied in a semi-structured manner, guided by interview guidelines, and implemented in a face-to-face manner (Bryman 2004) in German language. With the interviews I obtain emotions, thoughts, and intentions of the participants and discover their perspective of the social world (Patton 2002). I will conduct 4-6 interviews of about 60-90 minutes length. The interview data will be analyzed with a qualitative content analysis to explore qualified hypotheses (Kohlbacher 2006, Krippendorff 2012, Mayring 2000). It enables the researcher to include textual information and to identify its properties systematically. I will make all data generated during the concept, survey, analysis, and writing phases publicly available on GitHub[^1], as long as it meets research ethics standards (e.g. interview audio records and unanonymized interview transcripts will be excluded).
 
 [^1]: [https://github.com/geyslein/Masters_Thesis](https://github.com/geyslein/Masters_Thesis)
 
 # Work Plan
 
-The work plan is based on an estimated duration of 17 weeks for writing the master's thesis. As a social scientist I worked 8 years with qualitative data and its analysis.
+The work plan is based on an estimated duration of 17 weeks for writing the master's thesis. (As a social scientist I worked 8 years with qualitative data and its analysis)
 
 Week | Task | Methods and Tools | Comments
 --|--|--|--
