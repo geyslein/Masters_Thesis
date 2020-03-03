@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: Proposal Master's Thesis. "Seeking Research Software. Humanities Scholars Information Seeking Behaviour."
-=======
 title: Proposal Master's Thesis. "Seeking Research Software. A Qualitative Study of Humanities Scholars' Information Seeking Behavior."
->>>>>>> 939d34606cb35c8a6f6cfa2e50bfbe6fa849167c
 author: 'Ronny Gey (M24), geyronny@hu-berlin.de'
 geometry: margin=3cm  
 ---
@@ -28,7 +24,7 @@ __RQ1__: How do humanists seek for research software?
 
 __RQ2__: Which factors explain the differences in the information-seeking behaviour?
 
-The work is based on Wilson's (2000) understanding of information-seeking behaviour which he defines as: "_a purposive process of seeking information as a consequence of a need to satisfy some goals_". The empirical work will be guided by either Ellis' (1989), Kuhlthaus (1991), Wilsons (1997), or Niedźwiedzka (2003) information(-seeking) behaviour model. 
+The work is based on Wilson's (2000) understanding of information-seeking behaviour which he defines as: "_a purposive process of seeking information as a consequence of a need to satisfy some goals_". The empirical work will be guided by either Ellis' (1989), Kuhlthaus (1991), Wilsons (1997), or Niedźwiedzka (2003) information(-seeking) behaviour model.
 
 _[old:The decision depends on various factors, which have yet to be examined: (1) The effort of working with the model should correspond to the total amount of work available for the master's thesis. (2) A possible sharpening of the research question in the conceptual phase can shift the focus in favour of certain aspects that are represented to varying degrees in the models. (3) Interview data as well as (4) the choice of a certain analysis method (qualitative content analysis) could encourage the use of a particular model.]_
 
@@ -54,7 +50,6 @@ Week | Task | Methods and Tools | Comments
 16-17 | Proofreading and Submission |   |  
 =======
 16-17 | Proofreading and Submission |   |
->>>>>>> 939d34606cb35c8a6f6cfa2e50bfbe6fa849167c
 
 # References
 
