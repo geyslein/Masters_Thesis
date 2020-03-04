@@ -20,9 +20,9 @@ The information-seeking behaviour of humanities scholars in general has been add
 
 The aim of this work is to investigate the information-seeking behaviour of early-career philologists when seeking a specific type of research software (text analysis software). Special emphasis will be placed on the respondents' recourse to their own research process and the knowledge and practice structures in their field.
 
-__RQ1__: How do humanists seek for research software?
+**RQ1**: How do humanists seek for research software?
 
-__RQ2__: Which factors explain the differences in the information-seeking behaviour?
+**RQ2**: Which factors explain the differences in the information-seeking behaviour?
 
 The work is based on Wilson's (2000) understanding of information-seeking behaviour which he defines as: "_a purposive process of seeking information as a consequence of a need to satisfy some goals_". The empirical work will be guided by either Ellis' (1989), Kuhlthaus (1991), Wilsons (1997), or Niedźwiedzka (2003) information(-seeking) behaviour model.
 
@@ -32,22 +32,22 @@ _[old:The decision depends on various factors, which have yet to be examined: (1
 
 I chose an exploratory study design (Rinsdorf 2013) where the personal realm of experience of each interviewee lies in the center of the analysis. Interviews are the main data gathering technique which are applied in a semi-structured manner, guided by interview guidelines, and implemented in a face-to-face manner (Bryman 2004) in German language. With the interviews I obtain emotions, thoughts, and intentions of the participants and discover their perspective of the social world (Patton 2002). I will conduct 4-6 interviews of about 60-90 minutes length. The interview data will be analyzed with a qualitative content analysis to explore qualified hypotheses (Kohlbacher 2006, Krippendorff 2012, Mayring 2000). It enables the researcher to include textual information and to identify its properties systematically. I will make all data generated during the concept, survey, analysis, and writing phases publicly available on GitHub[^1], as long as it meets research ethics standards (e.g. interview audio records and unanonymized interview transcripts will be excluded).
 
-[^1]: [https://github.com/geyslein/Masters_Thesis](https://github.com/geyslein/Masters_Thesis)
+[^1]: <https://github.com/geyslein/Masters_Thesis>
 
 # Work Plan
 
 The work plan is based on an estimated duration of 17 weeks for writing the master's thesis. (As a social scientist I worked 8 years with qualitative data and its analysis)
 
-Week | Task | Methods and Tools | Comments
---|--|--|--
-00-02 | conceptual phase, literature research | systematic literature review, discovery systems (Leipzig University Library, BASE, ), reference management system (JabRef), notetaking (Markdown), LateX text editor (Texmaker) | ...already in progress
-00-02 | scheduling interviewees | phone, email, notetaking | existing contacts to faculty members at Leipzig University
-02-03 | interview guidelines, consent forms | notetaking |
-03-05 | conducting and transcribing interviews | notetaking, recording device, transcription tool (easytranscript) |
-04-08 | data analysis | open coding (Corbin & Strauss 1990), focused coding (Emerson 2011), qualitative content analysis (Kohlbacher 2006, Krippendorff 2012, Mayring 2000), QDA tool (?) |
-08-16 | Writing | LateX text editor, reference management system |
-16-17 | Proofreading and Submission |   |  
-16-17 | Proofreading and Submission |   |
+| Week  | Task                                   | Methods and Tools                                                                                                                                                               | Comments                                                   |
+| :---- | :------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------------------------------------------------------- |
+| 00-02 | conceptual phase, literature research  | systematic literature review, discovery systems (Leipzig University Library, BASE, ), reference management system (JabRef), notetaking (Markdown), LateX text editor (Texmaker) | ...already in progress                                     |
+| 00-02 | scheduling interviewees                | phone, email, notetaking                                                                                                                                                        | existing contacts to faculty members at Leipzig University |
+| 02-03 | interview guidelines, consent forms    | notetaking                                                                                                                                                                      |                                                            |
+| 03-05 | conducting and transcribing interviews | notetaking, recording device, transcription tool (easytranscript)                                                                                                               |                                                            |
+| 04-08 | data analysis                          | open coding (Corbin & Strauss 1990), focused coding (Emerson 2011), qualitative content analysis (Kohlbacher 2006, Krippendorff 2012, Mayring 2000), QDA tool (?)               |                                                            |
+| 08-16 | Writing                                | LateX text editor, reference management system                                                                                                                                  |                                                            |
+| 16-17 | Proofreading and Submission            |                                                                                                                                                                                 |                                                            |
+| 16-17 | Proofreading and Submission            |                                                                                                                                                                                 |                                                            |
 
 # References
 
