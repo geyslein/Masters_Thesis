@@ -1,4 +1,5 @@
 # Masters Thesis
+__Currently__: Finalizing proposal, contacting interviewees, compiling consent form and questionaire
 
 __Topic__: Seeking Research Software: A Qualitative Study of Humanities Scholars' Information Seeking Behavior.
 
