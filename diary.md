@@ -16,3 +16,5 @@
 | 2020 01 21 | Weitere Literaturrecherche | |
 | 2020 03 04 | Weitere Literaturrecherche, Hinweise Elke Greifeneder eingearbeitet | |
 | 2020 03 06 | Literaturrecherche  |   | Activity Theory (Engeström), Modell McKenzie, Studies of Information Practices of (Humanities) Scholars
+| 2020 03 09 | Interview consent form compiled |   |   |
+| 2020 03 12 | Literaturrecherche Information Practices, Updated proposal  |   |   |
