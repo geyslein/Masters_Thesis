@@ -58,5 +58,4 @@ Palmer & Cragin 2009
 
 ## Institutional Support for Humanities in Using Digital Tools
 Given & Wilson 2018
-"The affordances of digital tools have created new methodologies, not only requiring new
-training and institutional support"
+"The affordances of digital tools have created new methodologies, not only requiring new training and institutional support"
