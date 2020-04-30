@@ -19,3 +19,7 @@
 | 2020 03 09 | Interview consent form compiled |   |   |
 | 2020 03 12 | Literaturrecherche Information Practices, Updated proposal  |   |   |
 | 2020 03 13 | Latex thesis file setup  |   |   |
+| 2020 03 20 | Interview guidelines |   |   |
+| 2020 03 21 | Literaturrecherche: Davenport 2020 | Argumentation für "Daten brauchen Software"  |   |
+| 2020 04 06 | Read: McKenzie 2003 |   |   |
+| 2020 04 30 | Read McKenzie Literature | Model of Information Practices suitable for my task | Derive Questions for Questionnaire from it |
