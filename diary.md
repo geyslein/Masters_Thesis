@@ -23,3 +23,4 @@
 | 2020 03 21 | Literaturrecherche: Davenport 2020 | Argumentation für "Daten brauchen Software"  |   |
 | 2020 04 06 | Read: McKenzie 2003 |   |   |
 | 2020 04 30 | Read McKenzie Literature | Model of Information Practices suitable for my task | Derive Questions for Questionnaire from it |
+| 2020 05 01 | Questionnaire |   |   |

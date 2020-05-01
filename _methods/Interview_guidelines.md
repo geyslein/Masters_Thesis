@@ -1,15 +1,30 @@
-* Fragen zur Person
-* Welche SW wird benutzt?
-* Woher kam der Impuls bestimmte SW zu nutzen?
-* Welche SW wurde zuletzt in den eigenen Forschungsprozess integriert?
+# Interviewfragebogen
+## Fragen zur Person
+- Studium, Promotion
+- Berufserfahrung, Aktuelle Position
+- Spezialgebiet: Inhalte, Methoden, Theorien
+
+## Einstiegsfragen zur Suche im Allgemeinen
+- Beschreibe den Prozess der eigenen Literaturrecherche
+  - Ablauf
+    Welche Quellen werden genutzt? (Suchmaschinen, Datenbanken, Kollegen, Publikationen, Veranstaltungen, Dienstleister, Social Media)
+  - Welche Werkzeuge werden genutzt?
+
+## Fragen zur Softwarenutzung
+- Welche Software nutzen Sie im wissenschaftlichen Alltag?
+  - Seit wann?
+  - Motivation - Wofür?
+  - Erfahrung?
+- Welche Software wurde zuletzt in den eigenen Forschungsprozess integriert?
   - Wann?
-  - Wieso?
-  - Auslöser?
-  - Was hat sich geändert?
-  - Wie zufrieden?
-* Beschreibe den Prozess der eigenen Literaturrecherche
- * welche quellen?
- * Werkzeuge?
+  - Motivation - Wofür?
+  - Was war der Impuls dafür?
+  - Erfahrung mittlerweile?
+  - Was hat sich dadurch geändert?
+  - Zufriedenheit?
+
+## Fragen zur Suche nach Software
+
 * Beschreibe den Prozess der Suche nach Softwarewerkzeugen
   * Quellen
     - Freunde
