@@ -1,14 +1,14 @@
 # Masters Thesis
-__Currently__: Finalizing proposal, contacting interviewees, compiling consent form and questionaire
+__Currently__: Contacting interviewees, compiling consent form and questionaire
 
-__Topic__: Seeking Research Software: A Qualitative Study of Humanities Scholars' Information Seeking Behavior.
+__Topic__: Seeking Research Software: A Qualitative Study of Humanities Scholars' Information Seeking Practices.
 
-__Deadline__: ~mid July 2020 (to be confirmed yet)
+__Deadline__: 14th of September 2020
 
-__Keywords__: Information Seeking Behavior, Humanities, Research Software
+__Keywords__: Information Seeking Practices, Humanities, Research Software
 
 __Supervisor__: Prof. Rebecca Frank (PhD), Prof. Dr. Wolfram Horstmann
 
 __Proposal__: [2019_Gey_proposal_MA.md](2019_Gey_proposal_MA.md) / [2019_Gey_proposal_MA.pdf](2019_Gey_proposal_MA.pdf)
 
-__Thesis (not started yet)__: [thesis_RG.pdf](thesis_RG.pdf) 
+__Thesis (working)__: [thesis_RG.pdf](thesis_RG.pdf) 
