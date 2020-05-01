@@ -9,10 +9,10 @@ __Keywords__: Information Seeking Practices, Humanities, Research Software
 
 __Supervisor__: Prof. Rebecca Frank (PhD), Prof. Dr. Wolfram Horstmann
 
-__Proposal__: [2019_Gey_proposal_MA.md](2019_Gey_proposal_MA.md) / [2019_Gey_proposal_MA.pdf](2019_Gey_proposal_MA.pdf)
+__Proposal (finalized)__: [2019_Gey_proposal_MA.md](2019_Gey_proposal_MA.md) / [2019_Gey_proposal_MA.pdf](2019_Gey_proposal_MA.pdf)
 
 __Thesis (working)__: [thesis_RG.pdf](thesis_RG.pdf) 
 
-__Interview guidelines__: [Interview_guidelines.md](_methods/Interview_guidelines.md), [interview_questions_ranking.ods](_methods/interview_questions_ranking.ods)
+__Interview guidelines (working)__: [Interview_guidelines.md](_methods/Interview_guidelines.md), [interview_questions_ranking.ods](_methods/interview_questions_ranking.ods)
 
 My research diary can be found here: [diary.md](diary.md). During literature research I do collect suitable arguments for theory and discussion section here: [arguments.md](arguments.md).
