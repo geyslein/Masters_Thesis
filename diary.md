@@ -24,3 +24,4 @@
 | 2020 04 06 | Read: McKenzie 2003 |   |   |
 | 2020 04 30 | Read McKenzie Literature | Model of Information Practices suitable for my task | Derive Questions for Questionnaire from it |
 | 2020 05 01 | Questionnaire |   |   |
+| 2020 05 20 | Questionnaire, Interview 11 |   |   |
