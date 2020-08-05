@@ -25,3 +25,16 @@
 | 2020 04 30 | Read McKenzie Literature | Model of Information Practices suitable for my task | Derive Questions for Questionnaire from it |
 | 2020 05 01 | Questionnaire |   |   |
 | 2020 05 20 | Questionnaire, Interview 11 |   |   |
+| 2020 05 27 | Interview 21, 31  |   |   |
+| 2020 05 31 | Questionnaire |   |   |
+| 2020 06 02 | Questionnaire |   |   |
+| 2020 06 03 | Interview 12 |   |   |
+| 2020 06 04 | Interview 41 |   | contact interview person 5, recommendation of interview person 4 |
+| 2020 06 08 | contact interview person 5  |   |   |
+| 2020 06 15 | Interview 32 |   |   |
+| 2020 06 17 | Interview 22 |   |   |
+| 2020 06 18 | Interview 51 |   |   |
+| 2020 07 01 | Suchstrategeme nach Bates (1989) | Zur Beschreibung des Suchverhaltens (Strategien) der Personen | lesen! |
+| 2020 07 02 | Interview 42 |   |   |
+| 2020 08 04 | Transkript 11  |   |   |
+| 2020 08 05 | Transkript 11, 12 |   |   |

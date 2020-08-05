@@ -1,9 +1,10 @@
+**Done**:
 Fry 2006, Given and Wilson 2018, Hjorland & Albrechtsen 1995, Hucka & Graham 2018, Lenoir 1997, Murphy-Hill 2015, Palmer & Cragin 2009, Pohjanen & Kortelainen 2016, Roos 2015
 
 ## Interesting Literature Reviews
 Given & Wilson 2018
-Humanities Scholars’ Ways of Working: A Brief Overview
-Humanities Scholars and Technology Use: A Review of the Literature
+Chapter: Humanities Scholars’ Ways of Working: A Brief Overview
+Chapter: Humanities Scholars and Technology Use: A Review of the Literature
 => no tool-seeking studies mentioned
 
 Palmer & Cragin 2009
