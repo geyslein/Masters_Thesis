@@ -1,9 +1,9 @@
 # Masters Thesis
-__Currently__: Contacting interviewees, compiling consent form and questionaire
+__Currently__: Data analysis
 
 __Topic__: Seeking Research Software: A Qualitative Study of Humanities Scholars' Information Seeking Practices.
 
-__Deadline__: 14th of September 2020
+__Deadline__: 16th of October 2020
 
 __Keywords__: Information Seeking Practices, Humanities, Research Software
 
