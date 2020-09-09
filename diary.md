@@ -38,3 +38,7 @@
 | 2020 07 02 | Interview 42 |   |   |
 | 2020 08 04 | Transkript 11  |   |   |
 | 2020 08 05 | Transkript 11, 12 |   |   |
+| 2020 08 10-31 | remaining transcriptions  |   |   |
+| 2020 09 03 | Telefonat Horstmann | Stichwort: Anspruch der DH eine eigenständige Disziplin zu sein  |   |
+| 2020 09 04 | Anonymisierung der Interviews abgeschlossen | Rückmeldung der Probanden ausstehend |   |
+| 2020 09 09 | QDA begonnen:  |   |   |

@@ -11,9 +11,11 @@
 \usepackage[colorlinks=true,urlcolor=blue,citecolor=red,linkcolor=red,bookmarks=true,linktoc=all,bookmarkstype=toc,bookmarksopen=true]{hyperref}
 \usepackage{longtable}
 \usepackage{natbib}
+%\usepackage{biblatex}
 \usepackage[intoc,english]{nomencl}
 \usepackage{textcomp}
 \usepackage{xpatch}
+\usepackage{pdfpages}
 
 %zähler ohne kapitelnummern
 \counterwithout{figure}{chapter}
@@ -112,11 +114,11 @@ Abstract
 %%======================================================================
 
 \chapter{Introduction}
-Today, software is a central component of science. Throughout the entire research life cycle, researchers use software tools for data collection, transformation, analysis and presentation as well as for generating hypotheses, managing literature and writing scientific papers \citep{Kethers2017, Pan2016, Wolski2017}. Software has changed the way we actually do science. The complexity of the analyses carried out by researchers has increased, as has the amount of data that researchers can process. Software supports the documentation of the research process and enables reproducibility \citep{Dallmeier-Tiessen2016, Waltemath2016} and accuracy of results.
+Today, software is a central component of science. Throughout the entire research life cycle, researchers use software tools for data collection, transformation, analysis and presentation as well as for generating hypotheses, managing literature and writing scientific papers \citep{Kethers2017, Pan2016, Wolski2017}. Software has changed the way we actually do science. The complexity of the analyses carried out by researchers has increased, as has the amount of data that researchers can process. Software supports the documentation of the research process and enables reproducibility \citep{DallmeierTiessen2016, Waltemath2016} and accuracy of results.
 
 Due to the increased importance of research software for research \citep{Katz2017} and the increase in the sheer number of software, it is all the more important for researchers to identify suitable software and select the one which best fits the research problem, the actual step in the research process, or the research data which has to be processed, and, in consequence, which satisfies the researchers information need \citep{Wilson1994}. In addition to increased efforts, difficulties in seeking software can also endanger the scientific reproducibility of studies or even lead to multiple developments of software with identical functions instead of reusing existing software \citep{Hucka2018}.
 
-Information seeking of researchers is generally of great interest within the field of information, be it information behavior \citep[e.g.]{Ahmadianyazdi2018, Barrett2005, Campbell2017, Catalano2013, Ellis1993, Hemminger2007, Korobili2011,  Liyana2017, Rimmer2006, Rupp-Serrano2013, Wang2008} or information practices \citep[e.g.]{Boyum2015, Bulger2011, Fry2006, Given2018, Roos2015}. However, seeking software is still rather challenging for researchers \citep{Howison2015}. In a recent study, \citet{Hucka2018} surveyed scientists and engineers from several fields to better understand their approaches and selection criteria for seeking software. They found out that "\textit{finding software suitable for a given purpose remains surprisingly difficult}". Even in the domain of software development, the main challenge for software reuse are difficulties in finding software artifacts as \citet{Bauer2014} revealed in a study on code reuse at Google. \citet{Grossman2009} identified users unawareness of specific software tools. These results are all the more surprising because the participants in the cited studies come from a group with a greater affinity for software (software developers, engineers).
+Information seeking of researchers is generally of great interest within the field of information, be it information behavior \citep[e.g.]{Ahmadianyazdi2018, Barrett2005, Campbell2017, Catalano2013, Ellis1993, Hemminger2007, Korobili2011,  Liyana2017, Rimmer2006, RuppSerrano2013, Wang2008} or information practices \citep[e.g.]{Boyum2015, Bulger2011, Fry2006, Given2018, Roos2015}. However, seeking software is still rather challenging for researchers \citep{Howison2015}. In a recent study, \citet{Hucka2018} surveyed scientists and engineers from several fields to better understand their approaches and selection criteria for seeking software. They found out that "\textit{finding software suitable for a given purpose remains surprisingly difficult}". Even in the domain of software development, the main challenge for software reuse are difficulties in finding software artifacts as \citet{Bauer2014} revealed in a study on code reuse at Google. \citet{Grossman2009} identified users unawareness of specific software tools. These results are all the more surprising because the participants in the cited studies come from a group with a greater affinity for software (software developers, engineers).
 
 The lack of awareness of specific software tools among researchers has been addressed by several technical solutions. Code aggregators, specialized search engines, programming language package repositories, code and application repositories, research repositories (e.g. Zenodo or Figshare), and curated web lists and catalogues aid users in discovering software \citep{Struck2018}. Standards and tools for citing software enable researchers to identify, cite and reuse software \citep[e.g.]{Niemeyer2016, Smith2016, Soito2017}. Research funding agencies and research organizations \citep[e.g.]{Haupt2018, Katerbow2018, Scheliga2019} adopt guidelines for the development and use of research software with the aim of increasing the reusability and quality of the software artifacts developed. In turn, the technical solutions presented are also aimed more at a technically experienced audience, often even at software developers directly. For researchers with less experience in the use of software, e.g. from the humanities \citep{Rimmer2006}, seeking software remains a difficult undertaking.
 
@@ -203,12 +205,24 @@ Interviews - zweistufig
 - meine Präferenz aber auch die ersten beiden angefragten Personen fanden es in ordnung
 - flexibilität: möglichkeit der analyse des ersten interviews und dann anpassungen möglich (grounded theory anteile)
 - rekursion auf letztes interview möglich bei den interviewees, reflektion in der zwischenzeit 
-
-\section{Data Processing}
 - 
 
+\section{Data Processing}
+- transcription \cite{Edwards2003}
+	- kein wert auf rechtschreibung
+	- Clean read or smooth verbatim transcript \citep[p. 45]{Mayring2014}
+- Anonymization
+	- person, institute, critical content in terms of critizizing relevant players of the university/digital humanities field
+	- again consent of subjects
+
 \section{Data Analysis}
-The model/findings are derived from accounts of information seeking and not from observation of information seeking as it happened.
+- qual. content analysis \citep{Mayring2014}.
+- sw: qualcoder
+- The model/findings are derived from accounts of information practices and not from observation of information practices as it happened. 
+- Basic form of interpretation: reduction \cite[p. 63]{Mayring2014} ... to reduce the material to core contents or aspects.
+Even if the reduction of the material with summarizing content analysis is impressive, the procedure
+is very extensive =>
+- inductive category formation \cite[p. 79]{Mayring2014}: 
 
 	
 %%======================================================================
@@ -217,10 +231,28 @@ The model/findings are derived from accounts of information seeking and not from
 	
 \chapter{Findings}
 
+\section{Introduction of interview partners and their institute}
+
+
 %%======================================================================
 %%      Discussion
 %%======================================================================
 \chapter{Discussion}
+
+- classical philologists do not reflect much on the research process - which is why they do not regarding software use either => as a matter of fact, the analysis focus is on information practices in the widest sense
+
+- tool selection is very much trust based (recommendations/consulting from colleagues and friends/family)
+
+- negative experiences in digital humanities projects induce skepticism towards digital tools
+
+\cite{Zundert2012} large scale digi infrastructures as dead end
+
+- difficulties in formulating the right search terms (what they describe as well as what I could listen to during the interviews)
+
+\cite{Constant1996} - kindness of strangers
+\cite{Edmond2005} - role of prof intermediaries
+\cite{Gunning1978} - librarian should participate in research process
+\cite{MonroeGulick2013} - librarians as partners
 
 %%======================================================================
 %%      Conclusion
@@ -237,20 +269,20 @@ The model/findings are derived from accounts of information seeking and not from
 \cleardoublepage			
 \bibliography{../../Literatur/UB} % Path to your References.bib file		
 
-%======================================================================
-%	Selbstständigkeitserklärung
-%======================================================================
-\chapter*{Declaration of independence}
-%Hiermit erkläre ich, dass ich die vorliegende Arbeit selbstständig angefertigt, nicht anderweitig zu Prfüngszwecken vorgelegt und keine anderen als die angegebenen Hilfsmittel verwendet habe. Sämtliche  wissentlich verwendeten Textausschnitte, Zitate oder Inhalte anderer Verfasser wurden ausdrücklich als solche gekennzeichnet.\\[2ex]
-I hereby declare that I have prepared this paper independently, have not submitted it for testing purposes and have not used any other aids than those specified. All knowingly used text excerpts, quotations or contents of other authors have been explicitly marked as such. \\[2ex]
-
-Leipzig,  \today\\[6ex]
-\flushleft
-\newlength\us
-\settowidth{\us}{Ronny Gey}
-\begin{tabular}{p{\us}}\hline
-\centering\footnotesize Ronny Gey
-\end{tabular}
+%%======================================================================
+%%	Selbstständigkeitserklärung
+%%======================================================================
+%\chapter*{Declaration of independence}
+%%Hiermit erkläre ich, dass ich die vorliegende Arbeit selbstständig angefertigt, nicht anderweitig zu Prfüngszwecken vorgelegt und keine anderen als die angegebenen Hilfsmittel verwendet habe. Sämtliche  wissentlich verwendeten Textausschnitte, Zitate oder Inhalte anderer Verfasser wurden ausdrücklich als solche gekennzeichnet.\\[2ex]
+%I hereby declare that I have prepared this paper independently, have not submitted it for testing purposes and have not used any other aids than those specified. All knowingly used text excerpts, quotations or contents of other authors have been explicitly marked as such. \\[2ex]
+%
+%Leipzig,  \today\\[6ex]
+%\flushleft
+%\newlength\us
+%\settowidth{\us}{Ronny Gey}
+%\begin{tabular}{p{\us}}\hline
+%\centering\footnotesize Ronny Gey
+%\end{tabular}
 
 %======================================================================
 %	Anhang
@@ -270,9 +302,14 @@ The contents...
 
 \cleardoublepage
 
-\chapter{Consent Form}
+%\chapter{Consent Form}
+%\includepdf[pages=-,pagecommand={\thispagestyle{empty}}]{_data/collection/consent form interview (German).pdf}
 
 \end{appendices}
-
+%======================================================================
+%	Selbstständikeitserklärung
+%======================================================================
+\includepdf[pages=-,pagecommand={\thispagestyle{empty}}]{_admin/Selbststaendigkeitserklaerung}
+\cleardoublepage
 
 \end{document}
