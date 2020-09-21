@@ -24,13 +24,13 @@
   - What has changed as a result?
   - satisfaction?
 
-## **B** The search for software - general (classic Information Seeking Behaviour)
+## **B** The search for software - sources
 - Describe the process of searching for software tools
 - Which sources are used? (Friends, Colleagues, Within the institution: working group/professorship/faculty, Outside the institution: national vs. international, subject vs. non-subject, special catalogues, search engines, service providers: library, subject information services, subject specific websites, social media, software repositories)  
 - Which tools are used? (special catalogues, software repositories, social media, search engines)
 - What are the hurdles?
 
-## **C** Search and Use of Software - Information Practices
+## **C** Search and use of software - information practices
 ### Seeking
 - What kind of software have you already been looking for for your work?
 - What sources have you ever consulted when searching for software? (once/regularly)
@@ -64,13 +64,9 @@
   - Institute, Colleagues
   - Personal life situation: family, friends, leisure groups
 
-## **D** Context-specific and follow-up questions
+## **D** Follow-up questions for the second interview
 ### Follow-up first interview (interval: approx. 2 weeks)
 - What topics have you been thinking about until today?
 - What do you want to add to the last interview?
 - Depending on the context: (Add at the point)
   - ...
-
-### Differences and similarities literature research
-- What are the differences for you and your work as a researcher in the search for software compared to literature research?
-- What are the reasons for this?

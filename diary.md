@@ -42,3 +42,5 @@
 | 2020 09 03 | Telefonat Horstmann | Stichwort: Anspruch der DH eine eigenständige Disziplin zu sein  |   |
 | 2020 09 04 | Anonymisierung der Interviews abgeschlossen | Rückmeldung der Probanden ausstehend |   |
 | 2020 09 09 | QDA begonnen:  |   |   |
+| 2020 09 14 | QDA: 4 Interviews fertig  |   |   |
+| 2020 09 18 | QDA: alle Interviews fertig |   |   |
