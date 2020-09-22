@@ -10,13 +10,17 @@
 \contentsline {section}{\numberline {2.4}Domain Analysis: Humanities/Philology}{4}{section.2.4}%
 \contentsline {subsection}{\numberline {2.4.1}Information Practices of Humanists}{4}{subsection.2.4.1}%
 \contentsline {chapter}{\numberline {3}Research Design}{5}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Methods of Data Collection and Processing}{5}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Process of Data Analysis}{7}{section.3.2}%
-\contentsline {chapter}{\numberline {4}Findings}{8}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Introduction of interview partners and their institute}{8}{section.4.1}%
-\contentsline {chapter}{\numberline {5}Discussion}{9}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Conclusion}{10}{chapter.6}%
-\contentsline {chapter}{\numberline {7}Zusammenfassung (German Conclusion)}{11}{chapter.7}%
-\contentsline {chapter}{\nonumberline Bibliography}{12}{chapter*.4}%
-\contentsline {chapter}{Appendix \numberline {A}Interview Guide}{18}{appendix.a.A}%
-\contentsline {chapter}{Appendix \numberline {B}Category System}{22}{appendix.a.B}%
+\contentsline {section}{\numberline {3.1}Methods of Data Collection and Processing}{6}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Process of Data Analysis}{8}{section.3.2}%
+\contentsline {chapter}{\numberline {4}Findings}{10}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Introduction of the Empirical Field}{10}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Information Practices in Research}{11}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Software Use}{11}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Information Practices Towards Software}{11}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Domain Factors}{11}{section.4.5}%
+\contentsline {chapter}{\numberline {5}Discussion}{12}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Conclusion}{13}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Zusammenfassung (German conclusion)}{14}{chapter.7}%
+\contentsline {chapter}{\nonumberline Bibliography}{15}{chapter*.6}%
+\contentsline {chapter}{Appendix \numberline {A}Interview Guide}{21}{appendix.a.A}%
+\contentsline {chapter}{Appendix \numberline {B}Category System}{25}{appendix.a.B}%

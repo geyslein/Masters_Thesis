@@ -26,6 +26,12 @@ Benardou, A., Constantopoulos, P., and Dallas, C. (2013).
 \newblock {\em International Journal of Humanities and Arts Computing},
   7(1-2):105--127.
 
+\bibitem[Biernacki and Waldorf, 1981]{Biernacki1981}
+Biernacki, P. and Waldorf, D. (1981).
+\newblock {S}nowball sampling: {P}roblems and techniques of chain referral
+  sampling.
+\newblock {\em Sociological methods \& research}, 10(2):141--163.
+
 \bibitem[B{\o}yum and Aab{\o}, 2015]{Boyum2015}
 B{\o}yum, I. and Aab{\o}, S. (2015).
 \newblock The information practices of business {PhD} students.
@@ -99,6 +105,12 @@ Dallmeier-Tiessen, S. (2016).
   Erfahrungswerte - Mit Besonderem Augenmerk Auf Software}.
 \newblock Online.
 \newblock Presented at Helmholtz Open Science Workshop 2016.
+
+\bibitem[{Deutsche Forschungsgemeinschaft},
+  2019]{DeutscheForschungsgemeinschaft2019}
+{Deutsche Forschungsgemeinschaft} (2019).
+\newblock Guidelines for safeguarding good research practice. code of conduct.
+\newblock Technical report, Deutsche Forschungsgemeinschaft.
 
 \bibitem[Edmond, 2005]{Edmond2005}
 Edmond, J. (2005).
@@ -213,6 +225,11 @@ Krippendorff, K. (2012).
 \newblock {\em {Content Analysis: An Introduction to its Methodology}}.
 \newblock Sage Publications, 3 edition.
 
+\bibitem[Lamnek, 2005]{Lamnek2005}
+Lamnek, S. (2005).
+\newblock {\em {Qualitative Sozialforschung}}.
+\newblock Beltz Verlag, Weinheim, 4 edition.
+
 \bibitem[Liew and Ng, 2006]{Liew2006}
 Liew, C.~L. and Ng, S.~N. (2006).
 \newblock Beyond the notes: A qualitative study of the information-seeking
@@ -248,6 +265,7 @@ Neuefeind, C., Schildkamp, P., Mathiak, B., Karadkar, U., Stigler, J., Steiner,
   E., Vasold, G., Tosques, F., Ciula, A., Maher, B., Newton, G., Arneil, S.,
   and Holmes, M. (2020).
 \newblock Sustainability strategies for digital humanities systems.
+\newblock In {\em Proceedings of the DH2020}. Humanities Commons.
 
 \bibitem[Niemeyer et~al., 2016]{Niemeyer2016}
 Niemeyer, K.~E., Smith, A.~M., and Katz, D.~S. (2016).
