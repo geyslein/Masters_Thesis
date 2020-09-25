@@ -1,4 +1,4 @@
-\documentclass[12pt,a4paper,titlepage,oneside,abstract=true,toc=listof,toc=bibliography]{scrreprt}
+\documentclass[12pt, a4paper, titlepage, oneside, abstract=true, toc=listof, toc=bibliography]{scrreprt}
 
 \usepackage[utf8]{inputenc}
 \usepackage{amsmath}
@@ -16,6 +16,67 @@
 \usepackage{textcomp}
 \usepackage{xpatch}
 \usepackage{pdfpages}
+
+
+\usepackage[acronym, toc, automake, nonumberlist]{glossaries}
+% \newglossary[]{software}{sw}{ntn}{Notation}
+% no hyperlinks for glossary entries
+\newglossary*{software}{Glossary of Mentioned Software and Services}
+\glsdisablehyper
+\makeglossaries
+
+%% Glossary of Mentioned Software and Services
+%% A
+\newglossaryentry{Academia}{type=software, name=Academia, description={\url{https://www.academia.edu/}}}
+%% B
+\newglossaryentry{Bryn}{type=software, name=Bryn Mawr Classical Review, description={\url{}}}
+\glsadd{Bryn}
+%% C
+\newglossaryentry{Catul}{type=software, name=Catul online, description={\url{}}}
+\glsadd{Catul}
+\newglossaryentry{Citavi}{type=software, name=Citavi, description={A reference management software. \url{https://www.citavi.com/en}}}
+%% D
+\newglossaryentry{DeepL}{type=software, name=DeepL, description={\url{}}}
+\glsadd{DeepL}
+\newglossaryentry{Dropbox}{type=software, name=Dropbox, description={\url{}}}
+\glsadd{Dropbox}
+\newglossaryentry{Excel}{type=software, name=Excel (Microsoft), description={\url{}}}
+\glsadd{Excel}
+%% G
+\newglossaryentry{Germanistik.net}{type=software, name=Germanistik.net, description={\url{}}}
+\glsadd{Germanistik.net}
+\newglossaryentry{Gnomon}{type=software, name=Gnomon online, description={\url{}}}
+\newglossaryentry{Google}{type=software, name=Google Scholar, description={\url{}}}
+%% J
+\newglossaryentry{JSTOR}{type=software, name=JSTOR, description={\url{}}}
+\glsadd{JSTOR}
+%% L
+\newglossaryentry{LAPh}{type=software, name=l'Année philologique online, description={\url{}}}
+\newglossaryentry{Latex}{type=software, name=\LaTeX, description={\url{}}}
+\glsadd{Latex}
+%% P
+\newglossaryentry{Perseus}{type=software, name=Perseus, description={\url{}}}
+\glsadd{Perseus}
+%% T
+\newglossaryentry{Thunderbird}{type=software, name=Mozilla Thunderbird, description={\url{}}}
+\glsadd{Thunderbird}
+\newglossaryentry{Typegreek}{type=software, name=typegreek, description={\url{}}}
+%% W
+\newglossaryentry{Word}{type=software, name=Word (Microsoft), description={\url{}}}
+
+
+%\newglossaryentry{}{type=software, name=, description={}}
+%\newglossaryentry{}{type=software, name=, description={}}
+%\newglossaryentry{}{type=software, name=, description={}}
+
+
+%% Acronyms
+\newacronym{TLG}{TLG}{Thesaurus Linguae Graecae}
+\newacronym{TLL}{TLL}{Thesaurus Linguae Latinae}
+\newacronym{BMCR}{BMCR}{Bryn Mawr Classical Review}
+\newacronym{IP}{IP}{Information Practices}
+\newacronym{IB}{IB}{Information Behavior}
+\newacronym{APh}{APh}{l'Année philologique}
 
 %zähler ohne kapitelnummern
 \counterwithout{figure}{chapter}
@@ -36,10 +97,18 @@
 	%	Headings
 	%------------------------------------------------
 	
-	\textsc{\LARGE Humboldt University of Berlin}\\[1.5cm] % Main heading such as the name of your university/college
+	\textsc{\LARGE Humboldt University of Berlin}\\[1.0cm] % Main heading such as the name of your university/college
 	
 	\textsc{\Large Institute for Library and Information Science}\\[0.5cm] % Major heading such as course name
 	
+	
+	%------------------------------------------------
+	%	Logo
+	%------------------------------------------------
+	
+	\vfill
+	\includegraphics[width=0.2\textwidth]{husiegel_bw_op.eps}\\[1cm] % Include a department/university logo - this will require the graphicx package
+
 	%\textsc{\large Minor Heading}\\[0.5cm] % Minor heading such as course title
 	
 	%------------------------------------------------
@@ -48,8 +117,8 @@
 	
 	%\HRule\\[1cm]
 	\vfill
-	{\large\textbf{Seeking Research Software. A Qualitative Study of Humanities Scholars' Information Practices.}}\\[0.4cm] % Title of your document
-	
+	{\large\textsc{Seeking Research Software. A Qualitative Study of Humanities Scholars' Information Practices.}}\\[0.8cm] % Title of your document
+	{\textsc{Master's Thesis in the Postgraduate Master's Program in Library and Information Science by Distance Learning}}\\
 	%\HRule\\[3.6cm]
 	\vfill	
 	
@@ -58,7 +127,14 @@
 	%------------------------------------------------
 	
 			\large
-			\textsc{Ronny Gey} % Your name
+			\textsc{Ronny Gey}\\[0.8cm]% Your name
+			
+	%------------------------------------------------
+	%	Supervisor(s)
+	%------------------------------------------------
+	
+			\textsc{Supervisors:\\ Rebecca Frank (Ph.D.)\\Wolfram Horstmann (Ph.D.)}
+	
 	
 	%------------------------------------------------
 	%	Date
@@ -66,15 +142,8 @@
 	
 	\vfill\vfill\vfill % Position the date 3/4 down the remaining page
 	
-	{\large\today} % Date, change the \today to a set date if you want to be precise
-	
-	%------------------------------------------------
-	%	Logo
-	%------------------------------------------------
-	
-	\vfill\vfill
-	\includegraphics[width=0.2\textwidth]{husiegel_bw_op.eps}\\[1cm] % Include a department/university logo - this will require the graphicx package
-	 
+	{\textsc{Leipzig, \today}} % Date, change the \today to a set date if you want to be precise
+		 
 	%----------------------------------------------------------------------------------------
 	
 	\vfill % Push the date up 1/4 of the remaining page
@@ -100,15 +169,14 @@ Abstract
 \pagenumbering{roman}
 \pdfbookmark{\contentsname}{Contents}
 \tableofcontents
-\cleardoublepage
-\listoffigures                        
+%\cleardoublepage
+%\listoffigures                        
 \cleardoublepage
 \listoftables
 \cleardoublepage
-\pagenumbering{arabic}
+\printacronyms
 \cleardoublepage
-\printnomenclature
-
+\pagenumbering{arabic}
 %%======================================================================
 %%      Introduction
 %%======================================================================
@@ -200,6 +268,7 @@ The aim of this work is to investigate the information-seeking practices of earl
 With this thesis I want to comply with the principles of an open science\footnote{\url{https://ocsdnet.org/manifesto/open-science-manifesto/}}. Hence, I have decided that all data generated during the concept, survey, analysis, and writing phase is publicly available on GitHub\footnote{\url{https://github.com/geyslein/Masters_Thesis}}, as long as it meets research ethics standards of the \citet{DeutscheForschungsgemeinschaft2019}: Interview audio records and unanonymized interview transcripts are excluded. Prior to the study, I obtained the consent of the interviewees regarding the interview recording and later regarding the transcribed interviews.
 
 \section{Methods of Data Collection and Processing}
+\label{sec:data_collection}
 %% Einleitung
 According to \citet[p. 329]{Lamnek2005}, the qualitative paradigm sees the interview as the ideal way to collect data. Compared to the participating observation, it is much easier to realize. Moreover, qualitative research on the interpretation of texts is very advanced. The qualitative interview can be recorded, intersubjectively traced, and arbitraryly reproduced. Consequently, the findings of the study are derived from accounts of information practices and not from observation of information practices as it happened. 
 
@@ -255,16 +324,21 @@ In a first step, I approached the material using systematic open coding \citep{C
 
 % inhaltsanalyse - eventuell noch category system näher beschreiben
 \citet[p. 65]{Mayring2014} describes three basic interpretation techniques: reduction, explication and structuring. With the analysis I aim to \textit{reduce} the material to the core statements. For the interpretation of the present interview data I have chosen the \textit{inductive category formation} as a form of data reduction. In contrast to summarizing, the other and very extensive reduction method, inductive category formation considers only those parts relevant for the research question and the step of paraphrasing is skipped \cite[p. 79]{Mayring2014}. The final category system can be looked up in the Appendix (\ref{sec:Category_system}).
+
+% während transkription, analyse und selbst während schreibprozess - consulting of participants
+During transcription, coding, analysis and even during the writing process, I was able to contact Interviewees for field-specific questions. The private contacts with two Interviewees and the lunch, which I promised in return for the study participation and which  took place a few weeks after the interviews, were especially helpful. During these consultations, the interviewees answered my field-specific questions, such as correct descriptions and background information on the databases used or misunderstandings of certain workflows. I was also able to confront them with the findings and hypotheses I had developed and to obtain a qualified opinion and possibly a correction of the same.
 	
 %%======================================================================
 %%      Findings
 %%======================================================================
 	
 \chapter{Findings}
+The findings of the study are structured as follows. First, I will give a short overview of the field of classical philology under investigation (section \ref{sec:introduction_field}). Afterwards I will briefly present the situation of software use in the research process of the participants (section \ref{SW_use}). The main part of the results will be the information practices in search for and use of software (section \ref{sec:IP_SW}), as well as field- or domain-specific factors regarding problems, barriers and contradictions in the search for software (section \ref{sec:Domain_Factors}).
 
 \section{Introduction of the Empirical Field}
+\label{sec:introduction_field}
 % the institute, small, family like, history
-Classical Philology is one of the oldest subjects at the university. It first flourished in the sixteenth century. In the nineteenth century, the institute was a center of classical philology. The dominant field of work in the nineteenth century was edition philology. In the twentieth century, scholars opened up the great texts of antiquity in commentaries and interpretations. Similar to classical philology, the institute has declined in importance since its zenith in the 19th century and today counts about 20 scholars. Both Latin and Greek studies can be studied at the institute.
+Classical Philology is one of the oldest subjects at our interviewee's university. It first flourished in the sixteenth century. In the nineteenth century, the institute became a center of classical philology. The dominant field of work at that time was edition philology. In the twentieth century, scholars opened up the great texts of antiquity in commentaries and interpretations. Similar to classical philology, the institute has declined in importance since its zenith in the 19th century and today counts about 20 scholars. Both Latin and Greek studies can be studied at the institute.
 % interviewees
 In the present study I interviewed 5 members of the institute who are engaged as research assistants, PhD students or in post-doc positions at the institute. A brief profile of each interviewee is depicted in table \ref{tab:interviewees}. 
 
@@ -273,72 +347,173 @@ In the present study I interviewed 5 members of the institute who are engaged as
 \caption{Overview of interviewees}
 \label{tab:interviewees}
 \centering
-\begin{tabular}{llll}
-& & & \\
+\begin{tabular}{lllll}
+& & & &\\
 \hline
-Name & Position & No. Interviews & Duration of Interviews\\
+Name & Education & Position & \multicolumn{2}{c}{Interviews}\\
+ & &  & No. & Duration\\
 \hline
 \hline
-Sandra & Post-doc & 2 & 2h25min\\
-Peter & PhD student & 1 & 2h09min\\
-Marie & Post-doc & 2 & 2h44min\\
-Marco & PhD student & 2 & 2h56min\\
-Christian & PhD student & 2 & 2h07min\\
+Sandra & Latin and Greek studies & Post-doc & 2 & 2h25min\\
+Peter & Latin and Greek studies & PhD student & 1 & 2h09min\\
+Marie & Latin and Greek studies & Post-doc & 2 & 2h44min\\
+Marco & Latin and Greek studies, & PhD student & 2 & 2h56min\\
+      & teacher training & & & \\
+Christian & Latin and Greek studies, & PhD student & 2 & 2h07min\\
+      & teacher training & & & \\
 \hline
-& & & \\
+& & & &\\
 \end{tabular}
 \end{table}
 \normalsize
 
 % field kP
 %% Eigenschaften
-During the interviews the participants attributed various characteristics to classical philology or philologists that they perceived as typical. %conservative 
-In Sandra's opinion, classical philologist "\textit{[...] are quite conservative in their approach. They work the way they have always worked.} [Sandra, 1st interview\footnote{In the following, I use the convention [NAME, No. of Interview], for example [Sandra, 1] for the first and [Sandra, 2] for the second interview}]. 
-%critical
+During the interviews the participants attributed various characteristics to the field of classical philology or the way classical philologists think and work which participants perceived as typical. %conservative 
+In Sandra's opinion, classical philologist "\textit{[...] are quite conservative in their approach. They work the way they have always worked.} [Sandra, 1st interview\footnote{In the following, I use the convention [NAME, No. of Interview], for example [Sandra, 1] for the first and [Sandra, 2] for the second interview}]. This attribute was unanimously confirmed by the statements of the other interviewees. This means that they maintain a very analog way of working, use few digital tools and work mainly with the printed book. %critical 
+Furthermore, research is marked by an extremely critical and exact engagement with the available primary sources which is "\textit{a very central question}" [Peter, 1] for the whole field of classical philology. The sub domain edition science in which textual criticism takes place is "\textit{[...] actually the royal discipline [...] You just have to be extremely strict with yourself.}" [Sandra, 1]. In addition, a very friendly, helpful and open athmosphere is maintained among colleagues. This was mentioned in all interviews and also the way how easy the already mentioned snowball sampling (section \ref{sec:data_collection}) was supports this impression.
 
-
-
-
-\begin{quotation}
-\textit{ein teilbereich usnerer arbeit nennt sich ja auch quellenkritik und das ist eine ganz zentrale frage, also ähm ja und die lässt sich auch in verschieden teilbereiche spalten. das eine ist ja die sicherheit oder nichtsicherheit, die man haben kann, was die gestalt des textes selber angeht, der ja wie gesagt, der ja überlieferungsprozesse und zum teil auch transformationsprozesse durchlaufen hat über zwei jahrtausende in aller regel. } [Peter, 1]
-\end{quotation}
-
-%%%analog
-
-%%%critical und exakt
-
-%%%it-fern
-
-%%% 
 %% Teilbereiche
-%% Methoden
-
-\section{Information Practices in Research}
-% sources
-
-% 
+In addition to edition studies, there are also other sub domains of classical philology. In the interviews, for example, literary studies, philosophy, palaeography, papyrology, history, and translatology were mentioned as sub domains in which the participants are active or at least used to be active. Meanwhile there are also several professorships for Digital Humanities at the university, which will complement and continue the existing cooperation with the department of computer science and above all act as mediators between the humanities and the computer sciences. 
 
 \section{Software Use}
+\label{SW_use}
+To get a first overview of the software used by the classical philologists examined, I will briefly introduce the tools mentioned by the participants in the following section.
 % wenig
+The conservative working style mentioned in the previous section based on few digital tools becomes visible in the number and scope of the tools used and mentioned during the interviews. The most frequently used tool is the text editor \gls{Word} from Microsoft, which the interviewees use for writing research papers and for managing their literature references:
 
-% literaturverwaltung word - citavi
+\begin{quotation}
+"\textit{Well, I actually work quite analog I must say. I have a Word document and there I have my literature list, which I partly keyword to find things using the search function. [...] But this is basically a very analog way of working.}" [Marco, 1]
+\end{quotation}
 
+% literaturverwaltung word - citavi - alle, entschuldigend, es fehlte die zeit, zu viel aufwand für umstellung, im studium so gelernt
+Marco confirms that philologists work very analogously, i.e. with few software tools. Although there are many software tools dedicated to literature management, all interviewees stated that they also use Word for literature management. And all of them also mentioned that they heard about the \gls{Citavi}\footnote{https://www.citavi.com/en} reference management software and recognized its usefulness for that very purpose. Christian explained it as follows:
+
+\begin{quotation}
+"\textit{I know that Citavi exists. But I was so used to work with Word from the beginning that I always manage my literature this way. I wanted to get used to Citavi, but it scared me a bit, because I had heard that it takes a long time to get used to it, so I thought, okay, now you do it as always.}" [Christian, 1]
+\end{quotation}
+ 
+For most of the interviewees the learning curve to switch to Citavi was too big, they had progressed too far in their dissertation so that a change was no longer worthwhile or they had already learned in their bachelor or master studies to use Word and did not feel the urgent need to change it later. 
 % typegreek
+Two interviewees explicitly mentioned a small tool, typegreek\footnote{http://www.typegreek.com/}, that facilitates the writing of ancient Greek text with politonic, unicode-compliant characters. Marco was apparently the first to discover this tool and then recommended it to his colleague Peter who mentioned that "\textit{If I had known this in my studies, many seminar papers would have been less painful.}" [Peter, 1].
+
+% sw um die literaturquellen herum, zur präsentation + zusatzfunktionen
+However, the largest collection of tools used was mentioned in terms of searching and accessing literature. Interviewees often use databases or digital libraries that contain primary sources of classical philology. 
+%% literaturdatenbanken als software
+For the Greek language, the most prominent database is the \gls{TLG}\footnote{https://stephanus.tlg.uci.edu}, which is a collection of all texts written in Greek from antiquity to the present era. A similar database exists also for the Latin language, the \gls{TLL}\footnote{https://db.degruyter.com/databasecontent?dbid=tll\&dbsource=\%2Fdb\%2Ftll\&language=en}.  Interviewees regard both tools as standard tools that are basically without alternative in the digital world. Sandra comments for the \gls{TLG}: 
+
+\begin{quotation}
+"\textit{You can't build a more complete TLG now than the one that is there. This is not possible per se and nothing will change substantially. [...] TLG they really have a kind of monopoly on the data, on the texts.}" [Sandra, 2]
+\end{quotation}
+
+%% bibliographic databases
+The same applies to the bibliographic databases. Here, the \gls{APh}\footnote{http://www.brepols.net/Pages/BrowseBySeries.aspx?TreeSeries=APH-O} is generally considered the standard index for scholarly work on Ancient Greece or Rome: "\textit{the l'Année philologique, that is the be-all and end-all.}" [Marie, 1]. At the beginning of their research process, the Interviewees would always seek in the APh for research on a particular topic. 
+%% rezensions'organe' 
+In addition to bibliographic databases, review journals play an important role for the interviewees in their search for current research work and publications. The international journal \gls{BMCR}\footnote{http://bmcr.brynmawr.edu/} as well as the German journal \gls{Gnomon}\footnote{https://www.chbeck.de/buecher/zeitschriften/gnomon/} were frequently mentioned by the Interviewees. Sandra on the distribution and advantages of BMCR over other review journals: 
+
+\begin{quotation}
+"\textit{What actually almost all classical philologists have subscribed to as newsletter is the so-called BMCR, that is Bryn Mawr Classical Review. That is a review journal. The only difference, it's not better than all the others, but it just appears online. And they send it to you right away. Whenever someone finishes it, they send it to you, and that way it gets read a lot more than anything else. They just noticed very quickly in which direction digitization is going to. I assume that many more people will read it. Because it's just totally convenient, I get it via email.}" [Sandra, 1]
+\end{quotation}
+
+In particular, she highlights the immediate online availability and email notification as advantages over other services, which is why BMCR has quickly become the standard among philologists. %% suchmaschinen google
+Some interviewees also use \gls{Google}\footnote{https://scholar.google.com} for literature research. 
+%% neuere ansätze: 
+A more recent phenomenon among the participants is the use of \gls{Academia}\footnote{https://www.academia.edu}, a social networking website for academics where they can share ideas, research interests, and publications. Marco thinks it is "\textit{[...] sometimes very handy when people have just uploaded stuff that they have published.}"[Marco, 1]. Further, Academia suggests publications to researchers based on their research interests and previous interactions on the website.
+
+In conclusion, it can be stated that a large part of the tools mentioned by the Interviewees are used for locating and accessing publications and that much of it is used on websites as server-side software.
 
 \section{Information Practices Towards Software}
-% 
-% 
+\label{sec:IP_SW}
+% introduction
+In the last section I introduced software tools that the interviewees use in their research projects. This section now focuses on the information practices that the classical philologists engage when seeking for software tools for research or for information on the use of such software. I will structure this section according to the investigated modes of information practices in the accounts of the participants. A general overview of the perceived information practices is presented in the introduction section {\ref{sec:IP_Introduction}. The very dominant mode, seeking, is then discussed in section \ref{sec:IP_Seeking}. This is followed by explanations on scanning (section \ref{sec:IP_Scanning}) and monitoring (section \ref{sec:IP_Monitoring}). Both information practices were rarely reported by the Interviewees. In contrast, Interviewees were more often referred to software or solutions to software problems by proxy (section \ref{sec:IP_Proxy}) through colleagues or friends. Coincidence is another phenomenon that plays an important role in the interviewees' information practices. This will be discussed in more detail in section \ref{sec:IP_Coincidences}.
+
+% wenig softwaresuche allgemein, wenig bedarf
+\subsection{Introduction}
+\label{sec:IP_Introduction}
+Most interviewees were irritated when I asked them about the search for software. They had to think for a while about when they last searched for a specific tool. The reaction is not necessarily surprising, considering that classical philologists use very little software in their everyday research: "\textit{[...] we don't use so much technology, so to speak, or many software.}" [Christian, 2]. Therefore, the information practices for searching for software are more difficult for the participants to retrieve in their accounts during the interview. In contrast to literature research, seeking software or information about software usage is rarely practiced. 
+
+% seeking
+\subsection{Seeking}
+\label{sec:IP_Seeking}
+%% google
+All Interviewees write their research papers using the text editor Word. Knowledge of how to use functions perceived as complex, such as the automatic creation of directories, the handling of special characters or the automatic formatting of heading hierarchies, is often gained by using Google's search engine and its search results:
+
+\begin{quotation}
+"\textit{My knowledge comes from Google research, so according to the motto Google is my friend. And with Word I do almost everything, exactly with formatting stuff and almost everything alone.[...] I google all the time.}" [Marie, 2]
+\end{quotation}
+
+Using Google is often the first reflex in such a search process. However, since the search for software enjoys only a subordinate priority in terms of available time resources, the search is also interrupted relatively early if the desired search success does not materialize:
+
+%% suche wird früh abgebrochen
+\begin{quotation}
+"\textit{Yes, I am more likely to drop out than literature research. Then I give up and think okay, then that's the way it is, then I have to get along somehow differently. [...] This is also due to time, above all. I think there are more important things, I just put my focus on my work, like literature research or writing whatever. And then I think okay, you are wasting too much time here, so I am too impatient.}" [Christian, 2]
+\end{quotation}
+
+
+
+%% innerhalb der software selber wird geseekt
+
+
+%% Kollegen und Freunde
+
+%allgemein
+\begin{quotation}
+"\textit{In fact my colleagues are a source of information for me, the best, probably more important than other resources.}" [Marie, 2]
+\end{quotation}
+
+
+% TLG
+\begin{quotation}
+"\textit{In fact the answer is a bit trivial, I ask colleagues frequently [...]  the help in using the portal [RG: TLG] came from my colleagues.}" [Marie, 1]
+\end{quotation}
+
+% scanning
+\subsection{Scanning}
+\label{sec:IP_Scanning}
+
+
+% monitoring
+\subsection{Monitoring}
+\label{sec:IP_Monitoring}
+
+
+% Proxy
+\subsection{Proxy}
+\label{sec:IP_Proxy}
+%% Kollegen und Freunde
+%
+\begin{quotation}
+"\textit{It's not that we just google and then we find something. Rather, it goes from office to office without anyone remembering how it happened. But somebody must have discovered it first. With the LLTA database it is relatively easy, the university has subscribed to it and it usually costs money and we can use it for free. And somebody here will have tried it and found it to be good and now everybody uses it.} " [Marco, 2]
+\end{quotation}
+
+%% siehe typegreek already mentioned 
+
+%% weil der proxy so gut funktioniert, muss man die darüber erhaltenen Informationen nicht anderweitig ausfindig machen => vielleicht etwas für die diskussion!?
+If the information has already reached an Interviewee via a proxy, he or she no longer needs to actively search for it.
+
+% Zufall 
+\subsection{Coincidences}
+\label{sec:IP_Coincidences}
 
 \section{Domain Factors}
-% neg erfahrung mit DH projekten
+\label{sec:Domain_Factors}
+% neg erfahrung mit DH projekten, stilometrie sandra!
 
 % Die Grenze meiner Sprache... zitat von wittgenstein!
+The limits of my language mean the limits of my world. \citep{Wittgenstein1990}
+
+\begin{quotation}
+"\textit{If you somehow don't really know what to query, then you stop searching. Or you have to understand something about searching, and if you understand little about it, then you search less and are then clearly only need-oriented in terms of the concrete. I really need this and that now, then I'll see if I can find it.}" [Peter, 1]
+\end{quotation}
+
 
 % geringe methodenreflexion
 
 % geringe prio - sw suche früher abbruch
 
 % vertrauen - wenige quellen, antriggern von freunden/kollegen, primärquelle bei schwierigem
+
+% content nicht frei verwendbar (siehe TLG), daher kann das material auch nicht in andere tools gespeist werden und deswegen hängt die funktionalität am TLG, was der nicht anbieten kann, das ist dann etwas außer reichweite
 
 
 %%======================================================================
@@ -362,6 +537,8 @@ In Sandra's opinion, classical philologist "\textit{[...] are quite conservative
 %%% Hypo 4
 - difficulties in formulating the right search terms (what they describe as well as what I could listen to during the interviews)
 ==\cite{Savolainen2015a}: cognitive barriers to information seeking - Inability to articulate one’s information needs; Poor search skills
+
+%%% free the content and the tools will flourish?
 
 %%% Maybe Conclusion?
 \cite{Constant1996} - kindness of strangers
@@ -400,6 +577,12 @@ In Sandra's opinion, classical philologist "\textit{[...] are quite conservative
 %\end{tabular}
 
 %======================================================================
+%	Glossary of Software
+%======================================================================
+
+\printglossary[type=software]
+
+%======================================================================
 %	Anhang
 %======================================================================
 %\cleardoublepage\pdfbookmark[-1]{Anhang}{Anhang}
@@ -420,8 +603,8 @@ In Sandra's opinion, classical philologist "\textit{[...] are quite conservative
 %\includepdf[pages=-,pagecommand={\thispagestyle{empty}}]{_analysis/....pdf}
 \cleardoublepage
 
-%\chapter{Consent Form}
-%\includepdf[pages=-,pagecommand={\thispagestyle{empty}}]{_data/collection/consent form interview (German).pdf}
+\chapter{Consent Form}
+\includepdf[pages=-,pagecommand={\thispagestyle{empty}}]{_data/collection/consent form interview (German).pdf}
 
 \end{appendices}
 %======================================================================

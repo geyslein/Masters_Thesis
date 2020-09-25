@@ -1,6 +1,6 @@
 \babel@toc {english}{}
-\contentsline {chapter}{\nonumberline List of Figures}{ii}{chapter*.2}%
-\contentsline {chapter}{\nonumberline List of Tables}{iii}{chapter*.3}%
+\contentsline {chapter}{\nonumberline List of Tables}{iii}{chapter*.2}%
+\contentsline {chapter}{Acronyms}{iv}{section*.3}%
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
 \contentsline {chapter}{\numberline {2}Theory}{3}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Information Seeking}{3}{section.2.1}%
@@ -14,13 +14,20 @@
 \contentsline {section}{\numberline {3.2}Process of Data Analysis}{8}{section.3.2}%
 \contentsline {chapter}{\numberline {4}Findings}{10}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Introduction of the Empirical Field}{10}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Information Practices in Research}{11}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Software Use}{11}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Information Practices Towards Software}{11}{section.4.4}%
-\contentsline {section}{\numberline {4.5}Domain Factors}{11}{section.4.5}%
-\contentsline {chapter}{\numberline {5}Discussion}{12}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Conclusion}{13}{chapter.6}%
-\contentsline {chapter}{\numberline {7}Zusammenfassung (German conclusion)}{14}{chapter.7}%
-\contentsline {chapter}{\nonumberline Bibliography}{15}{chapter*.6}%
-\contentsline {chapter}{Appendix \numberline {A}Interview Guide}{21}{appendix.a.A}%
-\contentsline {chapter}{Appendix \numberline {B}Category System}{25}{appendix.a.B}%
+\contentsline {section}{\numberline {4.2}Software Use}{11}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Information Practices Towards Software}{13}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Introduction}{13}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Seeking}{14}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Scanning}{14}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.3.4}Monitoring}{14}{subsection.4.3.4}%
+\contentsline {subsection}{\numberline {4.3.5}Proxy}{14}{subsection.4.3.5}%
+\contentsline {subsection}{\numberline {4.3.6}Coincidences}{15}{subsection.4.3.6}%
+\contentsline {section}{\numberline {4.4}Domain Factors}{15}{section.4.4}%
+\contentsline {chapter}{\numberline {5}Discussion}{16}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Conclusion}{17}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Zusammenfassung (German conclusion)}{18}{chapter.7}%
+\contentsline {chapter}{\nonumberline Bibliography}{19}{chapter*.7}%
+\contentsline {chapter}{Glossary of Mentioned Software and Services}{24}{section*.8}%
+\contentsline {chapter}{Appendix \numberline {A}Interview Guide}{26}{appendix.a.A}%
+\contentsline {chapter}{Appendix \numberline {B}Category System}{30}{appendix.a.B}%
+\contentsline {chapter}{Appendix \numberline {C}Consent Form}{31}{appendix.a.C}%
