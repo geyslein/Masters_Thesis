@@ -3,44 +3,46 @@ Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: thesis_RG.aux
 The style file: apalike.bst
 Database file #1: ../../Literatur/UB.bib
-You've used 66 entries,
+Warning--empty journal in Lang2018
+You've used 68 entries,
             1935 wiz_defined-function locations,
-            933 strings with 16739 characters,
-and the built_in function-call counts, 25063 in all, are:
-= -- 2493
-> -- 935
-< -- 49
-+ -- 333
-- -- 305
-* -- 2133
-:= -- 4404
-add.period$ -- 208
-call.type$ -- 66
-change.case$ -- 483
-chr.to.int$ -- 66
-cite$ -- 66
-duplicate$ -- 949
-empty$ -- 1799
-format.name$ -- 405
-if$ -- 4850
+            944 strings with 16986 characters,
+and the built_in function-call counts, 25676 in all, are:
+= -- 2553
+> -- 949
+< -- 51
++ -- 339
+- -- 309
+* -- 2180
+:= -- 4514
+add.period$ -- 213
+call.type$ -- 68
+change.case$ -- 495
+chr.to.int$ -- 68
+cite$ -- 69
+duplicate$ -- 976
+empty$ -- 1847
+format.name$ -- 411
+if$ -- 4966
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 67
-newline$ -- 336
-num.names$ -- 200
-pop$ -- 374
+missing$ -- 69
+newline$ -- 345
+num.names$ -- 206
+pop$ -- 384
 preamble$ -- 1
-purify$ -- 481
+purify$ -- 493
 quote$ -- 0
-skip$ -- 704
+skip$ -- 726
 stack$ -- 0
-substring$ -- 1804
-swap$ -- 80
+substring$ -- 1849
+swap$ -- 81
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 384
-warning$ -- 0
-while$ -- 220
+type$ -- 396
+warning$ -- 1
+while$ -- 226
 width$ -- 0
-write$ -- 864
+write$ -- 887
+(There was 1 warning)
