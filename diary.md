@@ -43,4 +43,6 @@
 | 2020 09 04 | Anonymisierung der Interviews abgeschlossen | Rückmeldung der Probanden ausstehend |   |
 | 2020 09 09 | QDA begonnen:  |   |   |
 | 2020 09 14 | QDA: 4 Interviews fertig  |   |   |
-| 2020 09 18 | QDA: alle Interviews fertig |   |   |
+| 2020 09 18 | QDA: alle Interviews fertig | | |
+| 2020 10 01 | Findings fertig   |   |   |
+| 2020 10   |   |   |   |

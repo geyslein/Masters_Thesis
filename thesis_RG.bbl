@@ -1,10 +1,70 @@
 \begin{thebibliography}{}
 
+\bibitem[Ahenkorah-Marfo, 2016]{AhenkorahMarfo2016}
+Ahenkorah-Marfo, M. (2016).
+\newblock Domain analytic approach to the use of academic databases by graduate
+  students.
+\newblock {\em International Information {\&} Library Review}, 49(1):1--10.
+
 \bibitem[Ahmadianyazdi and Chandrashekara, 2018]{Ahmadianyazdi2018}
 Ahmadianyazdi, F. and Chandrashekara, M. (2018).
 \newblock Research challenges and delayed gratification in information seeking
   behavior: a case study of research scholars.
 \newblock {\em Library Philosophy \& Practice}.
+
+\bibitem[{Allen}, 2019]{Allen2019}
+{Allen}, A. (2019).
+\newblock {Receiving Credit for Research Software}.
+\newblock In {Teuben}, P.~J., {Pound}, M.~W., {Thomas}, B.~A., and {Warner},
+  E.~M., editors, {\em Astronomical Society of the Pacific Conference Series},
+  volume 523 of {\em Astronomical Society of the Pacific Conference Series},
+  page 593.
+
+\bibitem[{Allen} et~al., 2020]{Allen2020}
+{Allen}, A., {Nemiroff}, R., {Ryan}, P., {Schmidt}, J., and {Teuben}, P.
+  (2020).
+\newblock {Best ways to let others know how to cite your research software}.
+\newblock In {\em American Astronomical Society Meeting Abstracts}, American
+  Astronomical Society Meeting Abstracts, page 10912.
+
+\bibitem[{\'{A}}lvarez-Moreno et~al., 2014]{AlvarezMoreno2014}
+{\'{A}}lvarez-Moreno, M., de~Graaf, C., L{\'{o}}pez, N., Maseras, F., Poblet,
+  J.~M., and Bo, C. (2014).
+\newblock Managing the computational chemistry big data problem: The
+  {ioChem}-{BD} platform.
+\newblock {\em Journal of Chemical Information and Modeling}, 55(1):95--103.
+
+\bibitem[Anthony, 2013]{Anthony2013}
+Anthony, L. (2013).
+\newblock A critical look at software tools in corpus linguistics.
+\newblock {\em Linguistic Research}, 30(2):141--161.
+
+\bibitem[Anzt et~al., 2020]{Anzt2020}
+Anzt, H., Bach, F., Druskat, S., L{\"{o}}ffler, F., Loewe, A., Renard, B.~Y.,
+  Seemann, G., Struck, A., Achhammer, E., Aggarwal, P., Appel, F., Bader, M.,
+  Brusch, L., Busse, C., Chourdakis, G., Dabrowski, P.~W., Ebert, P., Flemisch,
+  B., Friedl, S., Fritzsch, B., Funk, M.~D., Gast, V., Goth, F., Grad, J.-N.,
+  Hermann, S., Hohmann, F., Janosch, S., Kutra, D., Linxweiler, J., Muth, T.,
+  Peters-Kottig, W., Rack, F., Raters, F. H.~C., Rave, S., Reina, G.,
+  Rei{\ss}ig, M., Ropinski, T., Schaarschmidt, J., Seibold, H., Thiele, J.~P.,
+  Uekerman, B., Unger, S., and Weeber, R. (2020).
+\newblock An environment for sustainable research software in germany and
+  beyond: Current state, open challenges, and call for action.
+\newblock {\em arXiv e-prints}.
+
+\bibitem[Ara{\'u}jo, 2019]{Araujo2019}
+Ara{\'u}jo, C. A.~{\'A}. (2019).
+\newblock Information practices: the relevance of the concept to information
+  user studies.
+\newblock {\em Annals of Library and Information Studies (ALIS)}, 66(3).
+
+\bibitem[Badreddin et~al., 2019]{Badreddin2019}
+Badreddin, O., Hamou-Lhadj, W., and Chauhan, S. (2019).
+\newblock Susereum: Towards a reward structure for sustainable scientific
+  research software.
+\newblock In {\em Proceedings of the 14\textsuperscript{th} International
+  Workshop on Software Engineering for Science}, SE4Science '19, pages 51--54,
+  Piscataway, NJ, USA. IEEE Press.
 
 \bibitem[Barrett, 2005]{Barrett2005}
 Barrett, A. (2005).
@@ -19,6 +79,14 @@ Bauer, V., Eckhardt, J., Hauptmann, B., and Klimek, M. (2014).
   Workshop on Software Engineering Research and Industrial Practices -
   {SER}{\&}{IPs} 2014}. {ACM} Press.
 
+\bibitem[Baxter et~al., 2012]{Baxter2012}
+Baxter, R., Chue~Hong, N., Gorissen, D., Hetherington, J., and Todorov, I.
+  (2012).
+\newblock {The Research Software Engineer}.
+\newblock In {\em Proceedings of the Digital Research 2012}.
+\newblock Digital Research 2012 ; Conference date: 10-09-2012 Through
+  12-09-2012.
+
 \bibitem[Benardou et~al., 2013]{Benardou2013}
 Benardou, A., Constantopoulos, P., and Dallas, C. (2013).
 \newblock An approach to analyzing working practices of research communities in
@@ -32,10 +100,64 @@ Biernacki, P. and Waldorf, D. (1981).
   sampling.
 \newblock {\em Sociological methods \& research}, 10(2):141--163.
 
+\bibitem[Bobra et~al., 2020]{Bobra2020}
+Bobra, M.~G., Mumford, S.~J., Hewett, R.~J., Christe, S.~D., Reardon, K.,
+  Savage, S., Ireland, J., Pereira, T. M.~D., Chen, B., and
+  P{\'{e}}rez-Su{\'{a}}rez, D. (2020).
+\newblock A survey of computational tools in solar physics.
+\newblock {\em Solar Physics}, 295(4):57.
+
+\bibitem[Bonner and Lloyd, 2011]{Bonner2011}
+Bonner, A. and Lloyd, A. (2011).
+\newblock What information counts at the moment of practice? information
+  practices of renal nurses.
+\newblock {\em Journal of Advanced Nursing}, 67(6):1213--1221.
+
+\bibitem[{Borne} et~al., 2009]{Borne2009}
+{Borne}, K., {Accomazzi}, A., {Bloom}, J., {Brunner}, R., {Burke}, D.,
+  {Butler}, N., {Chernoff}, D.~F., {Connolly}, B., {Connolly}, A., {Connors},
+  A., {Cutler}, C., {Desai}, S., {Djorgovski}, G., {Feigelson}, E., {Finn},
+  L.~S., {Freeman}, P., {Graham}, M., {Gray}, N., {Graziani}, C., {Guinan},
+  E.~F., {Hakkila}, J., {Jacoby}, S., {Jefferys}, W., {Kashyap}, {Kelly},
+  B.~o., {Knuth}, K., {Lamb}, D.~Q., {Lee}, H., {Loredo}, T., {Mahabal}, A.,
+  {Mateo}, M., {McCollum}, B., {Muench}, A., {Pesenson}, M., {Petrosian}, V.,
+  {Primini}, F., {Protopapas}, P., {Ptak}, A., {Quashnock}, J., {Raddick},
+  M.~J., {Rocha}, G., {Ross}, N., {Rottler}, L., {Scargle}, J.,
+  {Siemiginowska}, A., {Song}, I., {Szalay}, A., {Tyson}, J.~A., {Vestrand},
+  T., {Wallin}, J., {Wandelt}, B., {Wasserman}, I.~M., {Way}, M., {Weinberg},
+  M., {Zezas}, A., {Anderes}, E., {Babu}, J., {Becla}, J., {Berger}, J.,
+  {Bickel}, P.~J., {Clyde}, M., {Davidson}, I., {van Dyk}, D., {Eastman}, T.,
+  {Efron}, B., {Genovese}, C., {Gray}, A., {Jang}, W., {Kolaczyk}, E.~D.,
+  {Kubica}, J., {Loh}, J.~M., {Meng}, X.-L., {Moore}, A., {Morris}, R., {Park},
+  T., {Pike}, R., {Rice}, J., {Richards}, J., {Ruppert}, D., {Saito}, N.,
+  {Schafer}, C., {Stark}, P.~B., {Stein}, M., {Sun}, J., {Wang}, D., {Wang},
+  Z., {Wasserman}, L., {Wegman}, E.~J., {Willett}, R., {Wolpert}, R., and
+  {Woodroofe}, M. (2009).
+\newblock {Astroinformatics: A 21\textsuperscript{st} Century Approach to
+  Astronomy}.
+\newblock In {\em astro2010: The Astronomy and Astrophysics Decadal Survey},
+  volume 2010.
+
+\bibitem[Bourdieu and Pratique, 1994]{Bourdieu1994}
+Bourdieu, P. and Pratique, R. (1994).
+\newblock Sur la th{\'e}orie de l'action.
+\newblock {\em Editions du Seuil}.
+
 \bibitem[B{\o}yum and Aab{\o}, 2015]{Boyum2015}
 B{\o}yum, I. and Aab{\o}, S. (2015).
 \newblock The information practices of business {PhD} students.
 \newblock {\em New Library World}, 116(3/4):187--200.
+
+\bibitem[Brett et~al., 2017]{Brett2017}
+Brett, A., Croucher, M., Haines, R., Hettrick, S., Hetherington, J., Stillwell,
+  M., and Wyatt, C. (2017).
+\newblock Research software engineers: State of the nation report 2017.
+
+\bibitem[Brian et~al., 2020]{Brian2020}
+Brian, M., Ciula, A., Geoffroy, N., Ginestra, F., Miguel, V., and Paul, C.
+  (2020).
+\newblock The place of models and modelling in digital humanities:
+  Intersections with a research software engineering perspective.
 
 \bibitem[Bronstein, 2007]{Bronstein2007}
 Bronstein, J. (2007).
@@ -64,6 +186,12 @@ Bulger, M.~E., Meyer, E.~T., la~Flor, G.~D., Terras, M., Wyatt, S., Jirotka,
 \newblock Reinventing research? information practices in the humanities.
 \newblock {\em {SSRN} Electronic Journal}.
 
+\bibitem[Caidi et~al., 2010]{Caidi2010}
+Caidi, N., Allard, D., and Quirke, L. (2010).
+\newblock Information practices of immigrants.
+\newblock {\em Annual Review of Information Science and Technology},
+  44(1):491--531.
+
 \bibitem[Campbell, 2017]{Campbell2017}
 Campbell, L. (2017).
 \newblock The information-seeking habits of architecture faculty.
@@ -81,6 +209,13 @@ Catalano, A. (2013).
   behavior: a meta-synthesis of the literature.
 \newblock {\em Journal of Documentation}, 69(2):243--274.
 
+\bibitem[Cohen et~al., 2018]{Cohen2018}
+Cohen, J., Katz, D.~S., Barker, M., Haines, R., and Hong, N.~C. (2018).
+\newblock {Building a Sustainable Structure for Research Software Engineering
+  Activities}.
+\newblock In {\em 2018 {IEEE} 14\textsuperscript{th} International Conference
+  on e-Science (e-Science)}. {IEEE}.
+
 \bibitem[Constant et~al., 1996]{Constant1996}
 Constant, D., Sproull, L., and Kiesler, S. (1996).
 \newblock The kindness of strangers: The usefulness of electronic weak ties for
@@ -92,6 +227,12 @@ Corbin, J. and Strauss, A. (1990).
 \newblock {G}rounded theory research: {P}rocedures, canons and evaluative
   criteria.
 \newblock {\em Zeitschrift f{\"u}r Soziologie}, 19(6):418--427.
+
+\bibitem[Cosmo et~al., 2020]{Cosmo2020}
+Cosmo, R.~D., Gruenpeter, M., and Zacchiroli, S. (2020).
+\newblock Referencing source code artifacts: A separate concern in software
+  citation.
+\newblock {\em Computing in Science {\&} Engineering}, 22(2):33--43.
 
 \bibitem[Cunningham, 2010]{Cunningham2010}
 Cunningham, L. (2010).
@@ -106,17 +247,40 @@ Dallmeier-Tiessen, S. (2016).
 \newblock Online.
 \newblock Presented at Helmholtz Open Science Workshop 2016.
 
+\bibitem[de~Souza et~al., 2019]{Souza2019}
+de~Souza, M.~R., Haines, R., Vigo, M., and Jay, C. (2019).
+\newblock What makes research software sustainable? an interview study with
+  research software engineers.
+\newblock {\em CoRR}, abs/1903.06039.
+
 \bibitem[{Deutsche Forschungsgemeinschaft},
   2019]{DeutscheForschungsgemeinschaft2019}
 {Deutsche Forschungsgemeinschaft} (2019).
 \newblock Guidelines for safeguarding good research practice. code of conduct.
 \newblock Technical report, Deutsche Forschungsgemeinschaft.
 
+\bibitem[{Druskat}, 2020]{Druskat2020}
+{Druskat}, S. (2020).
+\newblock {Software and Dependencies in Research Citation Graphs}.
+\newblock {\em Computing in Science and Engineering}, 22(2):8--21.
+
+\bibitem[Dryden et~al., 2017]{Dryden2017}
+Dryden, M. D.~M., Fobel, R., Fobel, C., and Wheeler, A.~R. (2017).
+\newblock Upon the shoulders of giants: Open-source hardware and software in
+  analytical chemistry.
+\newblock {\em Analytical Chemistry}, 89(8):4330--4338.
+
 \bibitem[Edmond, 2005]{Edmond2005}
 Edmond, J. (2005).
 \newblock The role of the professional intermediary in expanding the humanities
   computing base.
 \newblock {\em Digital Scholarship in the Humanities}, 20(3):367--380.
+
+\bibitem[Edmond et~al., 2017]{Edmond2017}
+Edmond, J., Fischer, F., Mertens, M., and Romary, L. (2017).
+\newblock {The DARIAH ERIC: Redefining Research Infrastructure for the Arts and
+  Humanities in the Digital Age}.
+\newblock {\em {ERCIM News}}, -(111).
 
 \bibitem[Edwards, 2003]{Edwards2003}
 Edwards, J.~A. (2003).
@@ -129,11 +293,28 @@ Ellis, D. (1993).
   grounded theory approach.
 \newblock {\em The Library Quarterly}, 63(4):469--486.
 
+\bibitem[{Fehr} et~al., 2019]{Fehr2019}
+{Fehr}, J., {Himpe}, C., {Rave}, S., and {Saak}, J. (2019).
+\newblock {Sustainable Research Software Hand-Over}.
+\newblock {\em arXiv e-prints}, page arXiv:1909.09469.
+
+\bibitem[Fisher and Julien, 2009]{Fisher2009}
+Fisher, K.~E. and Julien, H. (2009).
+\newblock Information behavior.
+\newblock {\em Annual Review of Information Science and Technology},
+  43(1):1--73.
+
 \bibitem[Fry, 2006]{Fry2006}
 Fry, J. (2006).
 \newblock Scholarly research and information practices: a domain analytic
   approach.
 \newblock {\em Information Processing {\&} Management}, 42(1):299--316.
+
+\bibitem[Giddens, 1984]{Giddens1984}
+Giddens, A. (1984).
+\newblock {\em {T}he constitution of society: {O}utline of the theory of
+  structuration}.
+\newblock Polity Press.
 
 \bibitem[Given and Willson, 2018]{Given2018}
 Given, L.~M. and Willson, R. (2018).
@@ -141,6 +322,39 @@ Given, L.~M. and Willson, R. (2018).
   digital research practices.
 \newblock {\em Journal of the Association for Information Science and
   Technology}, 69(6):807--819.
+
+\bibitem[Goh et~al., 2017]{Goh2017}
+Goh, G.~B., Hodas, N.~O., and Vishnu, A. (2017).
+\newblock Deep learning for computational chemistry.
+\newblock {\em Journal of Computational Chemistry}, 38(16):1291--1307.
+
+\bibitem[Gray and Mann, 2011]{Gray2011}
+Gray, N. and Mann, R.~G. (2011).
+\newblock A journal for the astronomical computing community?
+\newblock {\em arXiv e-prints}.
+
+\bibitem[Greyson, 2017]{Greyson2017}
+Greyson, D. (2017).
+\newblock Health information practices of young parents.
+\newblock {\em Journal of Documentation}, 73(5):778--802.
+
+\bibitem[Greyson, 2018]{Greyson2018}
+Greyson, D. (2018).
+\newblock Information triangulation: A complex and agentic everyday information
+  practice.
+\newblock {\em Journal of the Association for Information Science and
+  Technology}, 69(7):869--878.
+
+\bibitem[Grimme and Schreiner, 2017]{Grimme2017}
+Grimme, S. and Schreiner, P.~R. (2017).
+\newblock Computational chemistry: The fate of current methods and future
+  challenges.
+\newblock {\em Angewandte Chemie International Edition}, 57(16):4170--4176.
+
+\bibitem[Grosbol and Tody, 2010]{Grosbol2010}
+Grosbol, P. and Tody, D. (2010).
+\newblock Making access to astronomical software more efficient.
+\newblock {\em arXiv e-prints}.
 
 \bibitem[Grossman et~al., 2009]{Grossman2009}
 Grossman, T., Fitzmaurice, G., and Attar, R. (2009).
@@ -153,6 +367,24 @@ Gunning, K. (1978).
 \newblock Increasing the reference librarian's participation in the research
   process.
 \newblock {\em Journal of Academic Librarianship}, 4(4):216--217.
+
+\bibitem[Harlan, 2012]{Harlan2012}
+Harlan, M.~A. (2012).
+\newblock {\em Information Practices of Teen Content Creators: TheIntersection
+  of Action and Experiences}.
+\newblock PhD thesis, School of Information Systems. Science and Engineering
+  Faculty. Queensland University of Technology.
+
+\bibitem[Hasselbring, 2019]{Hasselbring2019a}
+Hasselbring, W. (2019).
+\newblock Microservices as architectural style for research software.
+\newblock In {\em 2\textsuperscript{nd} Vienna Software Seminar (VSS) on DevOps
+  and Microservice APIs}, Vienna.
+
+\bibitem[Hasselbring and van Hoorn, 2020]{Hasselbring2020}
+Hasselbring, W. and van Hoorn, A. (2020).
+\newblock Kieker: A monitoring framework for software engineering research.
+\newblock {\em Software Impacts}, 5:100019.
 
 \bibitem[Haupt et~al., 2018]{Haupt2018}
 Haupt, C., Meinel, M., and Schlauch, T. (2018).
@@ -173,11 +405,32 @@ Hepworth, K., Mensing, D., and Yun, G.~W. (2017).
   tools for teaching.
 \newblock {\em Journalism {\&} Mass Communication Educator}, 73(3):255--270.
 
+\bibitem[Herraiz-Tabernero et~al., 2007]{HerraizTabernero2007}
+Herraiz-Tabernero, I., Amor-Iglesias, J.-J., and del Castillo-San~Felix, A.
+  (2007).
+\newblock Libre software for research.
+\newblock {\em The European Journal for the Informatics Professional}, 9(6).
+
+\bibitem[Heyer et~al., 2019]{Heyer2019}
+Heyer, G., Kahmann, C., and Kantner, C. (2019).
+\newblock {Generic tools and individual research needs in the Digital
+  Humanities -- Can agile development help?}
+\newblock In Draude, C., Lange, M., and Sick, B., editors, {\em INFORMATIK
+  2019: 50 Jahre Gesellschaft f{\"{u}}r Informatik -- Informatik f{\"{u}}r
+  Gesellschaft (Workshop-Beitr{\"{a}}ge)}, pages 175--180, Bonn. Gesellschaft
+  f{\"{u}}r Informatik e.V.
+
 \bibitem[Hj{\o}rland and Albrechtsen, 1995]{Hjorland1995}
 Hj{\o}rland, B. and Albrechtsen, H. (1995).
 \newblock Toward a new horizon in information science: Domain-analysis.
 \newblock {\em Journal of the American Society for Information Science},
   46(6):400--425.
+
+\bibitem[Hong, 2019]{Hong2019}
+Hong, N.~C. (2019).
+\newblock Making open source research software visible: A path to better
+  sustainability?
+\newblock (13.09.2019).
 
 \bibitem[Howison and Bullard, 2015]{Howison2015}
 Howison, J. and Bullard, J. (2015).
@@ -192,6 +445,42 @@ Hucka, M. and Graham, M.~J. (2018).
   how scientists and engineers find software.
 \newblock {\em Journal of Systems and Software}, 141:171--191.
 
+\bibitem[Imran and Kosar, 2019]{Imran2019}
+Imran, A. and Kosar, T. (2019).
+\newblock Software sustainability: A systematic literature review and
+  comprehensive analysis.
+\newblock {\em arXiv e-prints}.
+
+\bibitem[Ince et~al., 2012]{Ince2012}
+Ince, D.~C., Hatton, L., and Graham-Cumming, J. (2012).
+\newblock The case for open computer programs.
+\newblock {\em Nature}, 482(7386):485--488.
+
+\bibitem[Jay et~al., 2016]{Jay2016}
+Jay, C., Sanyour, R., and Haines, R. (2016).
+\newblock {\textquotedblleft}not everyone can use git{\textquotedblright}:
+  Research software engineers{\textquoteright} recommendations for
+  scientist-centred software support (and what researchers really think of
+  them).
+\newblock {\em Journal of open research software}, pages null--null.
+
+\bibitem[Johannisson and Sundin, 2007]{Johannisson2007}
+Johannisson, J. and Sundin, O. (2007).
+\newblock Putting discourse to work: Information practices and the professional
+  project of nurses.
+\newblock {\em The Library Quarterly}, 77(2):199--218.
+
+\bibitem[Johanson and Hasselbring, 2018]{Johanson2018}
+Johanson, A. and Hasselbring, W. (2018).
+\newblock Software engineering for computational science: Past, present,
+  future.
+\newblock {\em Computing in Science {\&} Engineering}, pages 1--1.
+
+\bibitem[Kanewala and Bieman, 2018]{Kanewala2018}
+Kanewala, U. and Bieman, J.~M. (2018).
+\newblock Testing scientific software: A systematic literature review.
+\newblock {\em arXiv e-prints}.
+
 \bibitem[Katerbow and Feulner, 2018]{Katerbow2018}
 Katerbow, M. and Feulner, G. (2018).
 \newblock {Recommendations on the development, use and provision of Research
@@ -203,10 +492,44 @@ Katz, D.~S. (2017).
 \newblock {Software in Research: Underappreciated and Underrewarded}.
 \newblock Presented at eResearch Australia.
 
+\bibitem[Katz et~al., 2019]{Katz2019}
+Katz, D.~S., Druskat, S., Haines, R., Jay, C., and Struck, A. (2019).
+\newblock The state of sustainable research software: Learning from the
+  workshop on sustainable software for science: Practice and experiences
+  ({WSSSPE}5.1).
+\newblock {\em Journal of Open Research Software}, 7.
+
+\bibitem[Katz et~al., 2020]{Katz2020}
+Katz, D.~S., Hong, N. P.~C., Clark, T., Fenner, M., and Martone, M.~E. (2020).
+\newblock Software and data citation.
+\newblock {\em Computing in Science {\&} Engineering}, 22(2):4--7.
+
+\bibitem[Katz et~al., 2018]{Katz2018}
+Katz, D.~S., McInnes, L.~C., Bernholdt, D.~E., Mayes, A.~C., Hong, N. P.~C.,
+  Duckles, J., Gesing, S., Heroux, M.~A., Hettrick, S., Jimenez, R.~C., Pierce,
+  M., Weaver, B., and Wilkins-Diehr, N. (2018).
+\newblock {Community Organizations: Changing the Culture in Which Research
+  Software Is Developed and Sustained}.
+\newblock {\em Computing in Science {\&} Engineering}, pages 1--1.
+
 \bibitem[Kethers et~al., 2017]{Kethers2017}
 Kethers, S., Treloar, A., and Wu, M. (2017).
 \newblock Building tools to facilitate data reuse.
 \newblock {\em International Journal of Digital Curation}, 11(2):1--12.
+
+\bibitem[Kislinskiy and Goch, 2016]{Kislinskiy2016}
+Kislinskiy, S. and Goch, C. (2016).
+\newblock Qualit{\"{a}}tsmanagement von und infrastruktur f{\"{u}}r open source
+  software in der wissenschaft am beispiel des medical imaging interaction
+  toolkits (mitk).
+
+\bibitem[Kitzie et~al., 2020]{Kitzie2020}
+Kitzie, V.~L., Wagner, T.~L., and Vera, A.~N. (2020).
+\newblock {\textquotedblleft}in the beginning, it was little
+  whispers{\ldots}now, we're almost a roar{\textquotedblright}: Conceptualizing
+  a model for community and self in {LGBTQ} health information practices.
+\newblock In {\em Sustainable Digital Communities}, pages 15--31. Springer
+  International Publishing.
 
 \bibitem[Kohlbacher, 2006]{Kohlbacher2006}
 Kohlbacher, F. (2006).
@@ -225,6 +548,13 @@ Krippendorff, K. (2012).
 \newblock {\em {Content Analysis: An Introduction to its Methodology}}.
 \newblock Sage Publications, 3 edition.
 
+\bibitem[Kuhlthau, 1991]{Kuhlthau1991}
+Kuhlthau, C.~C. (1991).
+\newblock Inside the search process: Information seeking from the
+  user{\textquotesingle}s perspective.
+\newblock {\em Journal of the American Society for Information Science},
+  42(5):361--371.
+
 \bibitem[Lamnek, 2005]{Lamnek2005}
 Lamnek, S. (2005).
 \newblock {\em {Qualitative Sozialforschung}}.
@@ -233,6 +563,12 @@ Lamnek, S. (2005).
 \bibitem[Lang, 2018]{Lang2018}
 Lang, S.~A. (2018).
 \newblock Perseus digital library.
+\newblock {\em RIDE}.
+
+\bibitem[Lee, 2018]{Lee2018}
+Lee, B.~D. (2018).
+\newblock Ten simple rules for documenting scientific software.
+\newblock {\em {PLOS} Computational Biology}, 14(12):e1006561.
 
 \bibitem[Liew and Ng, 2006]{Liew2006}
 Liew, C.~L. and Ng, S.~N. (2006).
@@ -246,6 +582,39 @@ Liyana, S. and Noorhidawati, A. (2017).
   result?
 \newblock {\em Malaysian Journal of Library \& Information Science}, 19(2).
 
+\bibitem[Lloyd, 2007]{Lloyd2007}
+Lloyd, A. (2007).
+\newblock Learning to put out the red stuff: Becoming information literate
+  through discursive practice.
+\newblock {\em The Library Quarterly}, 77(2):181--198.
+
+\bibitem[Lloyd et~al., 2013]{Lloyd2013}
+Lloyd, A., Kennan, M.~A., Thompson, K.~M., and Qayyum, A. (2013).
+\newblock Connecting with new information landscapes: information literacy
+  practices of refugees.
+\newblock {\em Journal of Documentation}, 69(1):121--144.
+
+\bibitem[L{\"{o}}ffler et~al., 2019]{Loeffler2019}
+L{\"{o}}ffler, F., Hammitzsch, M., Schieferdecker, I., N{\"{u}}st, D., and
+  Druskat, S. (2019).
+\newblock Rse4nfdi - safeguarding software sustainability in the nfdi.
+
+\bibitem[Lubbock, 2019]{Lubbock2019}
+Lubbock, A. L.~R. (2019).
+\newblock Accredit scientific software for sustainability.
+\newblock {\em Nature}, 572(7771):586--586.
+
+\bibitem[Mangul et~al., 2019]{Mangul2019}
+Mangul, S., Martin, L.~S., Eskin, E., and Blekhman, R. (2019).
+\newblock Improving the usability and archival stability of bioinformatics
+  software.
+\newblock {\em Genome Biology}, 20(1).
+
+\bibitem[Markowetz, 2017]{Markowetz2017}
+Markowetz, F. (2017).
+\newblock All biology is computational biology.
+\newblock {\em {PLOS} Biology}, 15(3):e2002050.
+
 \bibitem[Mayring, 2000]{Mayring2000}
 Mayring, P. (2000).
 \newblock {Q}ualitative {C}ontent {A}nalysis.
@@ -258,17 +627,72 @@ Mayring, P. (2014).
   procedures and software solution}.
 \newblock Beltz.
 
-\bibitem[McKenzie, 2003]{McKenzie2003a}
-McKenzie, P.~J. (2003).
+\bibitem[McKenzie, 2002]{McKenzie2002}
+McKenzie, P.~J. (2002).
+\newblock Communication barriers and information-seeking counterstrategies in
+  accounts of practitioner-patient encounters.
+\newblock {\em Library {\&} Information Science Research}, 24(1):31--47.
+
+\bibitem[McKenzie, 2003a]{McKenzie2003}
+McKenzie, P.~J. (2003a).
+\newblock Justifying cognitive authority decisions: Discursive strategies of
+  information seekers.
+\newblock {\em The Library Quarterly}, 73(3):261--288.
+
+\bibitem[McKenzie, 2003b]{McKenzie2003a}
+McKenzie, P.~J. (2003b).
 \newblock A model of information practices in accounts of everyday-life
   information seeking.
 \newblock {\em Journal of Documentation}, 59(1):19--40.
+
+\bibitem[Mohammad, 2020]{Mohammad2020}
+Mohammad, A. (2020).
+\newblock {\textquotedblleft}she's dead!{\textquotedblright} {\textendash}
+  nursing simulation practices: a discourse analysis approach.
+\newblock {\em Journal of Public Health Research}, 9(1).
 
 \bibitem[Monroe-Gulick et~al., 2013]{MonroeGulick2013}
 Monroe-Gulick, A., O'Brien, M.~S., and White, G.~W. (2013).
 \newblock Librarians as partners: Moving from research supporters to research
   partners.
 \newblock In {\em Association of College and Research Libraries Conference}.
+
+\bibitem[Muna et~al., 2016]{Muna2016}
+Muna, D., Alexander, M., Allen, A., Ashley, R., Asmus, D., Azzollini, R.,
+  Bannister, M., Beaton, R., Benson, A., Berriman, G.~B., Bilicki, M., Boyce,
+  P., Bridge, J., Cami, J., Cangi, E., Chen, X., Christiny, N., Clark, C.,
+  Collins, M., Comparat, J., Cook, N., Croton, D., Davids, I.~D., {{\'{E}}}ric
+  Depagne, Donor, J., dos Santos, L.~A., Douglas, S., Du, A., Durbin, M., Erb,
+  D., Faes, D., Fern{\'{a}}ndez-Trincado, J.~G., Foley, A., Fotopoulou, S.,
+  Frimann, S., Frinchaboy, P., Garcia-Dias, R., Gawryszczak, A., George, E.,
+  Gonzalez, S., Gordon, K., Gorgone, N., Gosmeyer, C., Grasha, K., Greenfield,
+  P., Grellmann, R., Guillochon, J., Gurwell, M., Haas, M., Hagen, A., Haggard,
+  D., Haines, T., Hall, P., Hellwing, W., Herenz, E.~C., Hinton, S., Hlozek,
+  R., Hoffman, J., Holman, D., Holwerda, B.~W., Horton, A., Hummels, C.,
+  Jacobs, D., Jensen, J.~J., Jones, D., Karick, A., Kelley, L., Kenworthy, M.,
+  Kitchener, B., Klaes, D., Kohn, S., Konorski, P., Krawczyk, C., Kuehn, K.,
+  Kuutma, T., Lam, M.~T., Lane, R., Liske, J., Lopez-Camara, D., Mack, K.,
+  Mangham, S., Mao, Q., Marsh, D. J.~E., Mateu, C., Maurin, L., McCormac, J.,
+  Momcheva, I., Monteiro, H., Mueller, M., Munoz, R., Naidu, R., Nelson, N.,
+  Nitschelm, C., North, C., Nunez-Iglesias, J., Ogaz, S., Owen, R., Parejko,
+  J., Patr{\'{i}}cio, V., Pepper, J., Perrin, M., Pickering, T., Piscionere,
+  J., Pogge, R., Poleski, R., Pourtsidou, A., Price-Whelan, A.~M., Rawls,
+  M.~L., Read, S., Rees, G., Rein, H., Rice, T., Riemer-S{\o}rensen, S.,
+  Rusomarov, N., Sanchez, S.~F., Santander-Garc{\'{i}}a, M., Sarid, G.,
+  Schoenell, W., Scholz, A., Schuhmann, R.~L., Schuster, W., Scicluna, P.,
+  Seidel, M., Shao, L., Sharma, P., Shulevski, A., Shupe, D., Sif{\'{o}}n, C.,
+  Simmons, B., Sinha, M., Skillen, I., Soergel, B., Spriggs, T., Srinivasan,
+  S., Stevens, A., Streicher, O., Suchyta, E., Tan, J., Telford, O.~G., Thomas,
+  R., Tonini, C., Tremblay, G., Tuttle, S., Urrutia, T., Vaughan, S., Verdugo,
+  M., Wagner, A., Walawender, J., Wetzel, A., Willett, K., Williams, P. K.~G.,
+  Yang, G., Zhu, G., and Zonca, A. (2016).
+\newblock The astropy problem.
+\newblock {\em arXiv e-prints}.
+
+\bibitem[Murphy-Hill et~al., 2015]{MurphyHill2015}
+Murphy-Hill, E., Lee, D.~Y., Murphy, G.~C., and McGrenere, J. (2015).
+\newblock How do users discover new tools in software development and beyond?
+\newblock {\em Computer Supported Cooperative Work ({CSCW})}, 24(5):389--422.
 
 \bibitem[Neuefeind et~al., 2020]{Neuefeind2020}
 Neuefeind, C., Schildkamp, P., Mathiak, B., Karadkar, U., Stigler, J., Steiner,
@@ -277,11 +701,44 @@ Neuefeind, C., Schildkamp, P., Mathiak, B., Karadkar, U., Stigler, J., Steiner,
 \newblock Sustainability strategies for digital humanities systems.
 \newblock In {\em Proceedings of the DH2020}. Humanities Commons.
 
+\bibitem[Nied{\'z}wiedzka, 2003]{Niedzwiedzka2003}
+Nied{\'z}wiedzka, B. (2003).
+\newblock A proposed general model of information behaviour.
+\newblock {\em Information research}, 9(1):9--1.
+
+\bibitem[Nielsen and Van De~Sandt, 2019]{Nielsen2019}
+Nielsen, L.~H. and Van De~Sandt, S. (2019).
+\newblock Tracking citations to research software via pids.
+
 \bibitem[Niemeyer et~al., 2016]{Niemeyer2016}
 Niemeyer, K.~E., Smith, A.~M., and Katz, D.~S. (2016).
 \newblock The challenge and promise of software citation for credit,
   identification, discovery, and reuse.
 \newblock {\em Journal of Data and Information Quality}, 7(4):1--5.
+
+\bibitem[Oishi et~al., 2018]{Oishi2018}
+Oishi, J.~S., Brown, B.~P., Burns, K.~J., Lecoanet, D., and Vasil, G.~M.
+  (2018).
+\newblock Perspectives on reproducibility and sustainability of open-source
+  scientific software from seven years of the dedalus project.
+\newblock {\em arXiv e-prints}.
+
+\bibitem[Olsson, 2007]{Olsson2007}
+Olsson, M. (2007).
+\newblock Power/knowledge: The discursive construction of an author.
+\newblock {\em The Library Quarterly}, 77(2):219--240.
+
+\bibitem[Olsson, 2016]{Olsson2016}
+Olsson, M. (2016).
+\newblock Making sense of the past: The embodied information practices of field
+  archaeologists.
+\newblock {\em Journal of Information Science}, 42(3):410--419.
+
+\bibitem[Olsson, 2010]{Olsson2010}
+Olsson, M.~R. (2010).
+\newblock All the world{\textquotesingle}s a stage {\textendash} the
+  information practices and sense-making of theatre professionals.
+\newblock {\em Libri}, 60(3).
 
 \bibitem[Palmer and Cragin, 2009]{Palmer2009}
 Palmer, C.~L. and Cragin, M.~H. (2009).
@@ -299,6 +756,17 @@ Pan, X., Yan, E., and Hua, W. (2016).
 Patton, M.~Q. (2002).
 \newblock {\em {Q}ualitative {R}esearch \& {E}valuation {M}ethods}.
 \newblock SAGE, 3 edition.
+
+\bibitem[Pianosi et~al., 2019]{Pianosi2019}
+Pianosi, F., Sarrazin, F., and Wagener, T. (2019).
+\newblock How successfully is open-source research software adopted? results
+  and implications of surveying the users of a sensitivity analysis toolbox.
+\newblock {\em Environmental Modelling {\&} Software}, page 104579.
+
+\bibitem[Richardson, 2017]{Richardson2017}
+Richardson, C. (2017).
+\newblock The research software engineer- an emerging new role in academia in
+  the uk.pdf.
 
 \bibitem[Rimmer et~al., 2006]{Rimmer2006}
 Rimmer, J., Warwick, C., Blandford, A., Gow, J., and Buchanan, G. (2006).
@@ -325,6 +793,12 @@ Rupp-Serrano, K. and Robbins, S. (2013).
 \newblock Information-seeking habits of education faculty.
 \newblock {\em College \& Research Libraries}, 74(2):131--142.
 
+\bibitem[Saputri and Lee, 2020]{Saputri2020}
+Saputri, T. R.~D. and Lee, S.-W. (2020).
+\newblock Software analysis method for assessing software sustainability.
+\newblock {\em International Journal of Software Engineering and Knowledge
+  Engineering}, 30(01):67--95.
+
 \bibitem[Savolainen, 2007]{Savolainen2007}
 Savolainen, R. (2007).
 \newblock Information behavior and information practice: Reviewing the
@@ -344,6 +818,18 @@ Scheliga, K., Pampel, H., Konrad, U., Fritzsch, B., Schlauch, T., Nolden, M.,
 \newblock Dealing with research software: Recommendations for best practices.
 \newblock Technical report, Helmholtz Association.
 
+\bibitem[Shamir et~al., 2013]{Shamir2013}
+Shamir, L., Wallin, J.~F., Allen, A., Berriman, B., Teuben, P., Nemiroff,
+  R.~J., Mink, J., Hanisch, R.~J., and DuPrie, K. (2013).
+\newblock Practices in source code sharing in astrophysics.
+\newblock {\em Astronomy and Computing}, 1:54--58.
+
+\bibitem[Shortridge, 2009]{Shortridge2009}
+Shortridge, K. (2009).
+\newblock Talking amongst ourselves - communication in the astronomical
+  software community.
+\newblock {\em arXiv e-prints}.
+
 \bibitem[Smith et~al., 2016]{Smith2016}
 Smith, A.~M., Katz, D.~S., and and, K. E.~N. (2016).
 \newblock Software citation principles.
@@ -360,6 +846,18 @@ Struck, A. (2018).
 \newblock {Research Software Discovery: Challenges, Risks And Opportunities}.
 \newblock In {\em IEEE eScience 2018}. Zenodo.
 
+\bibitem[Talja, 2005]{Talja2005a}
+Talja, S. (2005).
+\newblock The domain analytic approach to scholars{\textquoteright} information
+  practices.
+\newblock In {\em Theories of Information Behavior}. Information Today, Inc.
+
+\bibitem[Talja and Maula, 2003]{Talja2003}
+Talja, S. and Maula, H. (2003).
+\newblock Reasons for the use and non-use of electronic journals and databases:
+  A domain analytic study in four scholarly disciplines.
+\newblock {\em Journal of Documentation}, 59(6):673--691.
+
 \bibitem[Talja and McKenzie, 2007]{Talja2007}
 Talja, S. and McKenzie, P.~J. (2007).
 \newblock {Editors' Introduction: Special Issue on Discursive Approaches to
@@ -372,12 +870,34 @@ Talja, S., Tuominen, K., and Savolainen, R. (2005).
   constructivism, collectivism and constructionism}.
 \newblock {\em Journal of Documentation}, 61(1):79--101.
 
+\bibitem[Tennant et~al., 2020]{Tennant2020a}
+Tennant, J., Agarwal, R., Ba{\v{z}}dari{\'{c}}, K., Brassard, D., Crick, T.,
+  Dunleavy, D.~J., Evans, T.~R., Gardner, N., Gonzalez-Marquez, M., Graziotin,
+  D., Tzovaras, B.~G., Gunnarsson, D., Havemann, J., Hosseini, M., Katz, D.~S.,
+  Kn{\"{o}}chelmann, M., Madan, C.~R., Manghi, P., Marocchino, A., Masuzzo, P.,
+  Murray-Rust, P., Narayanaswamy, S., Nilsonne, G., Pacheco-Mendoza, J.,
+  Penders, B., Pourret, O., Rera, M., Samuel, J., Steiner, T., Stojanovski, J.,
+  Uribe-Tirado, A., Vos, R., Worthington, S., and Yarkoni, T. (2020).
+\newblock A tale of two {\textquotesingle}opens{\textquotesingle}:
+  intersections between free and open source software and open scholarship.
+
+\bibitem[Tuominen et~al., 2005]{Tuominen2005}
+Tuominen, K., Talja, S., and Savolainen, R. (2005).
+\newblock The social constructionist viewpoint on information practices.
+\newblock In {\em Theories of information behavior}. Information Today, Inc.
+
 \bibitem[van Zundert, 2012]{Zundert2012}
 van Zundert, J. (2012).
 \newblock If you build it, will we come? large scale digital infrastructures as
   a dead end for digital humanities.
 \newblock {\em Historical Social Research / Historische Sozialforschung}, 37(3
   (141)):165--186.
+
+\bibitem[Veinot, 2007]{Veinot2007}
+Veinot, T.~C. (2007).
+\newblock {\textquotedblleft}the eyes of the power company{\textquotedblright}:
+  Workplace information practices of a vault inspector.
+\newblock {\em The Library Quarterly}, 77(2):157--179.
 
 \bibitem[Waltemath and Wolkenhauer, 2016]{Waltemath2016}
 Waltemath, D. and Wolkenhauer, O. (2016).
@@ -392,6 +912,20 @@ Wang, P., Dervos, D.~A., Zhang, Y., and Wu, L. (2008).
   age: A user study in the united states, china and greece.
 \newblock {\em Proceedings of the American Society for Information Science and
   Technology}, 44(1):1--29.
+
+\bibitem[Weiner et~al., 2009]{Weiner2009}
+Weiner, B.~J., Blanton, M.~R., Coil, A.~L., Cooper, M.~C., Dav{\'{e}}, R.,
+  Hogg, D.~W., Holden, B.~P., Jonsson, P., Kassin, S.~A., Lotz, J.~M.,
+  Moustakas, J., Newman, J.~A., Prochaska, J.~X., Teuben, P.~J., Tremonti,
+  C.~A., and Willmer, C. N.~A. (2009).
+\newblock Astronomical software wants to be free: A manifesto.
+\newblock {\em arXiv e-prints}.
+
+\bibitem[White et~al., 2019]{White2019}
+White, S.~R., Amarante, L.~M., Kravitz, A.~V., and Laubach, M. (2019).
+\newblock {The Future Is Open: Open-Source Tools for Behavioral Neuroscience
+  Research}.
+\newblock {\em {eNeuro}}, 6(4):ENEURO.0223--19.2019.
 
 \bibitem[Wilson, 1994]{Wilson1994}
 Wilson, T. (1994).
@@ -411,5 +945,27 @@ Wittgenstein, L. (1990).
 Wolski, M., Howard, L., and Richardson, J. (2017).
 \newblock The importance of tools in the data lifecycle.
 \newblock {\em Digital Library Perspectives}, 33(3):235--252.
+
+\bibitem[Ye et~al., 2019]{Ye2019}
+Ye, Y., Boyce, R.~D., Davis, M.~K., Elliston, K., Davatzikos, C., Fedorov, A.,
+  Fillion-Robin, J.~C., Foster, I., Gilbertson, J., Heiskanen, M., Klemm, J.,
+  Lasso, A., Miller, J.~V., Morgan, M., Pieper, S., Raumann, B., Sarachan, B.,
+  Savova, G., Silverstein, J.~C., Taylor, D., Zelnis, J., Zhang, G.~Q., and
+  Becich, M.~J. (2019).
+\newblock Open source software sustainability models: Initial white paper from
+  the informatics technology for cancer research sustainability and industry
+  partnership work group.
+\newblock {\em arXiv e-prints}.
+
+\bibitem[Zirkelbach et~al., 2020]{Zirkelbach2020}
+Zirkelbach, C., Krause, A., and Hasselbring, W. (2020).
+\newblock The collaborative modularization and reengineering approach coral for
+  open source research software.
+\newblock {\em International Journal On Advances in Software}, 13(1\&2):34--49.
+
+\bibitem[Zwart, 2018]{Zwart2018}
+Zwart, S.~P. (2018).
+\newblock Computational astrophysics for the future.
+\newblock {\em Science}, 361(6406):979--980.
 
 \end{thebibliography}
