@@ -45,4 +45,4 @@
 | 2020 09 14 | QDA: 4 Interviews fertig  |   |   |
 | 2020 09 18 | QDA: alle Interviews fertig | | |
 | 2020 10 01 | Findings fertig   |   |   |
-| 2020 10   |   |   |   |
+| 2020 10 12 | Theory fertig (ENDLICH!) |   |   |
