@@ -46,6 +46,11 @@ Ahmadianyazdi, F. and Chandrashekara, M. (2018).
   {ioChem}-{BD} platform.
 \newblock {\em Journal of Chemical Information and Modeling}, 55(1):95--103.
 
+\bibitem[and, 2014]{Coates2014}
+and, H.~C. (2014).
+\newblock Building data services from the ground up: Strategies and resources.
+\newblock {\em Journal of {eScience} Librarianship}, 3(1):52--59.
+
 \bibitem[Anthony, 2013]{Anthony2013}
 Anthony, L. (2013).
 \newblock A critical look at software tools in corpus linguistics.
@@ -149,6 +154,11 @@ Belkin, N., Marchetti, P., and Cool, C. (1993).
 \newblock {BRAQUE}: Design of an interface to support user interaction in
   information retrieval.
 \newblock {\em Information Processing {\&} Management}, 29(3):325--344.
+
+\bibitem[Belkin, 1980]{Belkin1980}
+Belkin, N.~J. (1980).
+\newblock Anomalous states of knowledge as a basis for information retrieval.
+\newblock {\em Canadian journal of information science}, 5(1):133--143.
 
 \bibitem[Benardou et~al., 2013]{Benardou2013}
 Benardou, A., Constantopoulos, P., and Dallas, C. (2013).
@@ -325,11 +335,12 @@ Cohen, J., Katz, D.~S., Barker, M., Haines, R., and Hong, N.~C. (2018).
 \newblock In {\em 2018 {IEEE} 14\textsuperscript{th} International Conference
   on e-Science (e-Science)}. {IEEE}.
 
-\bibitem[Constant et~al., 1996]{Constant1996}
-Constant, D., Sproull, L., and Kiesler, S. (1996).
-\newblock The kindness of strangers: The usefulness of electronic weak ties for
-  technical advice.
-\newblock {\em Organization science}, 7(2):119--135.
+\bibitem[Cole, 2011]{Cole2011}
+Cole, C. (2011).
+\newblock A theory of information need for information retrieval that connects
+  information to knowledge.
+\newblock {\em Journal of the American Society for Information Science and
+  Technology}, 62(7):1216--1231.
 
 \bibitem[Corbin and Strauss, 1990]{Corbin1990}
 Corbin, J. and Strauss, A. (1990).
@@ -897,6 +908,12 @@ L{\"{o}}ffler, F., Hammitzsch, M., Schieferdecker, I., N{\"{u}}st, D., and
   Druskat, S. (2019).
 \newblock Rse4nfdi - safeguarding software sustainability in the nfdi.
 
+\bibitem[L{\"{o}}nnqvist, 2007]{Loennqvist2007}
+L{\"{o}}nnqvist, H. (2007).
+\newblock The research processes of humanities scholars.
+\newblock In {\em Advances in Library Administration and Organization}, pages
+  175--202. Emerald ({MCB} {UP} ).
+
 \bibitem[Loudon et~al., 2016]{Loudon2016}
 Loudon, K., Buchanan, S., and Ruthven, I. (2016).
 \newblock The everyday life information seeking behaviours of first-time
@@ -1163,6 +1180,12 @@ Rosenblum, B. and Dwyer, A. (2016).
 \newblock In {\em Laying the Foundation}, pages 111--126. Purdue University
   Press.
 
+\bibitem[Rothfritz and Strecker, 2018]{Rothfritz2018}
+Rothfritz, L. and Strecker, D. (2018).
+\newblock If researchers and librarians work together, they can secure trust in
+  the research process of the 21\textsuperscript{St} century.
+\newblock https://doi.org/10.5281/zenodo.1217589.
+
 \bibitem[Rowlands and Nicholas, 2008]{Rowlands2008}
 Rowlands, I. and Nicholas, D. (2008).
 \newblock Understanding information behaviour: How do students and faculty find
@@ -1203,12 +1226,24 @@ Savolainen, R. (2015).
 \newblock Cognitive barriers to information seeking: A conceptual analysis.
 \newblock {\em Journal of Information Science}, 41(5):613--623.
 
+\bibitem[Schamber et~al., 1990]{Schamber1990}
+Schamber, L., Eisenberg, M.~B., and Nilan, M.~S. (1990).
+\newblock A re-examination of relevance: toward a dynamic, situational
+  definition$\ast$.
+\newblock {\em Information Processing {\&} Management}, 26(6):755--776.
+
 \bibitem[Scheliga et~al., 2019]{Scheliga2019}
 Scheliga, K., Pampel, H., Konrad, U., Fritzsch, B., Schlauch, T., Nolden, M.,
   Zu~Castell, W., Finke, A., Hammitzsch, M., Bertuch, O., and Denker, M.
   (2019).
 \newblock Dealing with research software: Recommendations for best practices.
 \newblock Technical report, Helmholtz Association.
+
+\bibitem[Schwindt, 2011]{Schwindt2011}
+Schwindt, J.~P. (2011).
+\newblock Paradise lost. warum die klassische philologie ihre standards und
+  normen {\"{u}}berdenken muss.
+\newblock {\em Journal of Literary Theory}, 5(2).
 
 \bibitem[Shah, 2010]{Shah2010}
 Shah, C. (2010).
@@ -1249,6 +1284,11 @@ Soito, L. and Hwang, L.~J. (2017).
 \newblock Citations for software: Providing identification, access and
   recognition for research software.
 \newblock {\em International Journal of Digital Curation}, 11(2):48--63.
+
+\bibitem[Sommerville, 2007]{Sommerville2007}
+Sommerville, I. (2007).
+\newblock {\em {Software Engineering}}.
+\newblock Addison Wesley, 8 edition.
 
 \bibitem[Sparck~Jones and Willett, 1997]{SparckJones1997}
 Sparck~Jones, K. and Willett, P. (1997).
@@ -1339,13 +1379,6 @@ van Zundert, J. (2012).
   a dead end for digital humanities.
 \newblock {\em Historical Social Research / Historische Sozialforschung}, 37(3
   (141)):165--186.
-
-\bibitem[Varner, 2016]{Varner2016}
-Varner, S. (2016).
-\newblock Library instruction for digital humanities pedagogy in undergraduate
-  classes.
-\newblock In {\em Laying the Foundation. Digital Humanities in Academic
-  Libraries}. Purdue University Press.
 
 \bibitem[Veinot, 2007]{Veinot2007}
 Veinot, T.~C. (2007).

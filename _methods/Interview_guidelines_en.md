@@ -58,6 +58,13 @@
     Informing through stories or experience
   - Advising, instructing, guiding
 
+### Avoiding
+- What sources do you trust?
+  - Why?
+- Which sources would you not consult for literature/software?
+  - Why?
+- What are the alternatives to a source (database, website, search engine etc)?
+
 ### Context
 - What role does context play in the search for software?
   - Field: Classical Philology

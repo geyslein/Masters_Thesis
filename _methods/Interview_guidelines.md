@@ -58,6 +58,13 @@
   - Informieren durch Geschichten oder Erfahrung
   - Beratend, anweisend, anleitend
 
+### Avoiding
+- Welchen Quellen vertraust du?
+  - Wieso?
+- Welche Quellen würdest du für Literatur/Software nicht konsultieren?
+  - Wieso?
+- Welche Alternativen gibt es zu einer Quelle (Datenbank, Webseite, Suchmaschine etc)?
+
 ### Kontext
 - Welche Rolle spielt der Kontext in der Suche nach Software?
   - Feld: Klassische Philologie

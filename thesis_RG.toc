@@ -31,12 +31,13 @@
 \contentsline {subsection}{\numberline {4.4.4}Trusting the Source}{36}{subsection.4.4.4}%
 \contentsline {subsection}{\numberline {4.4.5}Software and Data}{37}{subsection.4.4.5}%
 \contentsline {chapter}{\numberline {5}Discussion}{39}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Theoretical Implications}{39}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Practical Implications}{39}{section.5.2}%
-\contentsline {chapter}{\numberline {6}Conclusion}{40}{chapter.6}%
-\contentsline {chapter}{\numberline {7}Zusammenfassung (German conclusion)}{41}{chapter.7}%
-\contentsline {chapter}{\nonumberline Bibliography}{42}{chapter*.7}%
-\contentsline {chapter}{Glossary of Mentioned Software and Services}{61}{section*.8}%
-\contentsline {chapter}{Appendix \numberline {A}Interview Guide}{64}{appendix.a.A}%
-\contentsline {chapter}{Appendix \numberline {B}Category System}{68}{appendix.a.B}%
-\contentsline {chapter}{Appendix \numberline {C}Consent Form}{69}{appendix.a.C}%
+\contentsline {section}{\numberline {5.1}Information Seeking Practices of Classical Philologists}{39}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Context and Domain Specific Factors}{40}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Practical Implications}{40}{section.5.3}%
+\contentsline {chapter}{\numberline {6}Conclusion}{43}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Zusammenfassung (German conclusion)}{44}{chapter.7}%
+\contentsline {chapter}{\nonumberline Bibliography}{45}{chapter*.7}%
+\contentsline {chapter}{Glossary of Mentioned Software and Services}{64}{section*.8}%
+\contentsline {chapter}{Appendix \numberline {A}Interview Guide}{67}{appendix.a.A}%
+\contentsline {chapter}{Appendix \numberline {B}Category System}{71}{appendix.a.B}%
+\contentsline {chapter}{Appendix \numberline {C}Consent Form}{72}{appendix.a.C}%
