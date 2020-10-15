@@ -1,9 +1,9 @@
 # Masters Thesis
-__Currently__: Data analysis
+__Currently__: Writing
 
 __Topic__: Seeking Research Software: A Qualitative Study of Humanities Scholars' Information Seeking Practices.
 
-__Deadline__: 16th of October 2020
+__Deadline__: 22th of October 2020
 
 __Keywords__: Information Seeking Practices, Humanities, Research Software
 
@@ -13,6 +13,8 @@ __Proposal (finalized)__: [2019_Gey_proposal_MA.md](2019_Gey_proposal_MA.md) / [
 
 __Thesis (working)__: [thesis_RG.pdf](thesis_RG.pdf) 
 
-__Interview guidelines (working)__: Will be disclosed, after finishing the interviews. [Interview_guidelines.md](_methods/Interview_guidelines.md), [interview_questions_ranking.ods](_methods/interview_questions_ranking.ods)
+__Interview guidelines (finalized)__:  [Interview_guidelines.md](_methods/Interview_guidelines.md)
 
 My research diary can be found here: [diary.md](diary.md). During literature research I do collect suitable arguments for theory and discussion section here: [arguments.md](arguments.md).
+
+For this thesis, I used open source software only: [QualCoder](), [EasyTranscript](), [TexMaker](), [JabRef](), [Atom](), [Recoll](), [Okular](), [LibreOffice](), and many more.
