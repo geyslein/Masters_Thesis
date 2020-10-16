@@ -304,6 +304,12 @@ Campbell, L. (2017).
 \newblock The information-seeking habits of architecture faculty.
 \newblock {\em College {\&} Research Libraries}, 78(6).
 
+\bibitem[Case, 2007]{Case2007a}
+Case, D.~O., editor (2007).
+\newblock {\em Looking for Information. A Survey of Research on Information
+  Seeking, Needs, and Behavior}.
+\newblock Academic Press, London.
+
 \bibitem[Case and Given, 2016]{Case2016}
 Case, D.~O. and Given, L.~M., editors (2016).
 \newblock {\em Looking for information: A survey of research on information
@@ -327,6 +333,12 @@ Christensen, H.~D. (2014).
 \newblock The framing of scientific domains: about {UNISIST}, domain analysis
   and art history.
 \newblock {\em Journal of Documentation}, 70(2):261--281.
+
+\bibitem[Clark and Brennan, 1991]{Clark1991}
+Clark, H.~H. and Brennan, S.~E. (1991).
+\newblock Grounding in communication.
+\newblock In {\em Perspectives on socially shared cognition.}, pages 127--149.
+  American Psychological Association.
 
 \bibitem[Cohen et~al., 2018]{Cohen2018}
 Cohen, J., Katz, D.~S., Barker, M., Haines, R., and Hong, N.~C. (2018).
@@ -402,6 +414,12 @@ Diekema, A.~R. and Olsen, M.~W. (2012).
 \newblock {\em Proceedings of the American Society for Information Science and
   Technology}, 49(1):1--9.
 
+\bibitem[Dourish and Bellotti, 1992]{Dourish1992}
+Dourish, P. and Bellotti, V. (1992).
+\newblock Awareness and coordination in shared workspaces.
+\newblock In {\em Proceedings of the 1992 ACM conference on Computer-supported
+  cooperative work}, pages 107--114.
+
 \bibitem[{Druskat}, 2020]{Druskat2020}
 {Druskat}, S. (2020).
 \newblock {Software and Dependencies in Research Citation Graphs}.
@@ -454,6 +472,11 @@ Engerer, V.~P. (2020).
 \newblock {Sustainable Research Software Hand-Over}.
 \newblock {\em arXiv e-prints}, page arXiv:1909.09469.
 
+\bibitem[Festinger, 1957]{Festinger1957}
+Festinger, L. (1957).
+\newblock {\em A theory of cognitive dissonance}, volume~2.
+\newblock Stanford university press.
+
 \bibitem[Fisher et~al., 2005]{Fisher2005}
 Fisher, K.~E., Erdelez, S., and McKechnie, L.~E., editors (2005).
 \newblock {\em Theories of information behavior}.
@@ -503,6 +526,14 @@ Ford, N. (2015).
 Foucault, M. (1971).
 \newblock Orders of discourse.
 \newblock {\em Social Science Information}, 10(2):7--30.
+
+\bibitem[Froehlich, 1994]{Froehlich1994}
+Froehlich, T.~J. (1994).
+\newblock Relevance reconsidered{\textemdash}towards an agenda for the
+  21\textsuperscript{st} century: Introduction to special topic issue on
+  relevance research.
+\newblock {\em Journal of the American Society for Information Science},
+  45(3):124--134.
 
 \bibitem[Fry, 2006]{Fry2006}
 Fry, J. (2006).
@@ -1221,10 +1252,22 @@ Savolainen, R. (2007).
   information-seeking studies.
 \newblock {\em The Library Quarterly}, 77(2):109--132.
 
-\bibitem[Savolainen, 2015]{Savolainen2015a}
-Savolainen, R. (2015).
+\bibitem[Savolainen, 2015a]{Savolainen2015a}
+Savolainen, R. (2015a).
 \newblock Cognitive barriers to information seeking: A conceptual analysis.
 \newblock {\em Journal of Information Science}, 41(5):613--623.
+
+\bibitem[Savolainen, 2015b]{Savolainen2015}
+Savolainen, R. (2015b).
+\newblock The interplay of affective and cognitive factors in information
+  seeking and use.
+\newblock {\em Journal of Documentation}, 71(1):175--197.
+
+\bibitem[Savolainen, 2019]{Savolainen2019}
+Savolainen, R. (2019).
+\newblock Modeling the interplay of information seeking and information
+  sharing.
+\newblock {\em Aslib Journal of Information Management}, 71(4):518--534.
 
 \bibitem[Schamber et~al., 1990]{Schamber1990}
 Schamber, L., Eisenberg, M.~B., and Nilan, M.~S. (1990).
@@ -1305,11 +1348,23 @@ Struck, A. (2018).
 \newblock {Research Software Discovery: Challenges, Risks And Opportunities}.
 \newblock In {\em IEEE eScience 2018}. Zenodo.
 
+\bibitem[Talja, 2002]{Talja2002}
+Talja, S. (2002).
+\newblock Information sharing in academic communities: Types and levels of
+  collaboration in information seeking and use.
+\newblock {\em New Review of Information Behaviour Research}, 3:143--159.
+
 \bibitem[Talja, 2005]{Talja2005a}
 Talja, S. (2005).
 \newblock The domain analytic approach to scholars{\textquoteright} information
   practices.
 \newblock In {\em Theories of Information Behavior}. Information Today, Inc.
+
+\bibitem[Talja and Hansen, 2006]{Talja2006}
+Talja, S. and Hansen, P. (2006).
+\newblock {Information Sharing}.
+\newblock In {\em New Directions in Human Information Behavior}, pages
+  113--134. Springer-Verlag.
 
 \bibitem[Talja and Maula, 2003]{Talja2003}
 Talja, S. and Maula, H. (2003).
@@ -1352,6 +1407,11 @@ Tuominen, K. and Savolainen, R. (1997).
 Tuominen, K., Talja, S., and Savolainen, R. (2005).
 \newblock The social constructionist viewpoint on information practices.
 \newblock In {\em Theories of information behavior}. Information Today, Inc.
+
+\bibitem[Twidale et~al., 1997]{Twidale1997}
+Twidale, M., Nichols, D.~M., and Paice, C.~D. (1997).
+\newblock Browsing is a collaborative process.
+\newblock {\em Information Processing and Management}, 33(6):761--783.
 
 \bibitem[Unsworth, 2000]{Unsworth2000}
 Unsworth, J. (2000).

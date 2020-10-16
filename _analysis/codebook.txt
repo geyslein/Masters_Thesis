@@ -1,0 +1,116 @@
+Codebuch für masters_thesis.qda
+========
+_Thesen
+-- Antriggern von Kollege/Freund als Proxy
+-- Die Grenze meiner Sprache ist die Grenze meiner Welt.
+-- Digitales wird nicht gern zitiert
+-- Geringe Methodenreflektion
+-- Geringere Prio => SW Suche frühzeitiger Abbruch
+-- Kollegen sind die Primärquelle bei Schwierigem
+-- kP war in der Vergangenheit teilweise weiter als heute
+-- kP-Kollegen begeistern mit DH Projekten
+-- Neg Erf mit DH => Reserviertheit ggüber Proz und Werkz
+-- Technologie hilft beim Präzisieren des InfoNeeds
+-- Wenige
+Feld - Klassische Philologie
+--Eigenschaften
+---- analog
+------ genau
+------ IT-fern
+------ kollegial
+------ Konservativ
+------ kritisch
+------ vorsichtig
+------ ästhetisch
+----Methoden
+---- Bildung
+------ Corpus
+------ Kommentar
+------ Methodik
+------ Stilometrie
+------ Textkritik
+----Teilbereiche
+---- Editionswissenschaften
+------ Literaturwissenschaften
+------ Paläographie
+------ Philosophie
+------ Translatologie
+----Werkzeuge
+----Literaturrecherche
+-------- Academia
+---------- allgemein
+---------- BMCR
+---------- BTL
+---------- Catul
+---------- DeepL
+---------- Facebook
+---------- FID
+---------- Franzosius
+---------- germanistik.net
+---------- Gnomon
+---------- Google [Scholar]
+---------- JSTOR
+---------- l'année philologique
+---------- LLTA
+---------- LSJ
+---------- Michael Erler
+---------- Pauly
+---------- Perseus
+---------- Prepolis
+---------- Rheinisches Museum
+---------- Schmidt-Herzog
+---------- TLG
+---------- TLL
+--------Software
+-------- Citavi
+---------- Dropbox
+---------- Excel
+---------- Latex
+---------- Thunderbird
+---------- typegreek
+---------- Word
+------ Digital Humanities
+-- Publizieren
+-- Unterschied zu and. Fachbereichen
+-- Verbesserung
+-- Vergangenheit / Zukunft
+Information Practices
+--Kanal
+---- Browser [www]
+------ Chip.de
+------ Email
+------ face-to-face
+------ Software selber
+---- Erfolg
+-- Ignoring
+-- Information Need
+-- IP_allgemein
+-- Kontext
+-- Literatursuche
+-- Monitoring
+-- Proxy
+-- Scanning
+-- Schneeballprinzip
+-- Seeking
+-- Technology
+-- Ungeduldig
+-- Unsicher
+-- Vorbereitung
+-- Zufall
+Institut/Uni
+-- Bibliothek
+-- Forschungsunterstützungsinfrastruktur
+-- Inhalte
+-- Kollegen
+-- Mentoring/Stiftung
+-- Oberseminar
+-- Studierende
+Person
+-- Berufserfahrung
+-- Projekt
+-- SFB
+-- Studium
+ Finanzierung
+ Freunde / Familie
+ Frustration
+ Vertrauen
