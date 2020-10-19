@@ -32,12 +32,12 @@
 \contentsline {subsection}{\numberline {4.4.5}Software and Data}{39}{subsection.4.4.5}%
 \contentsline {chapter}{\numberline {5}Discussion}{42}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Information Seeking Practices of Classical Philologists}{42}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Context and Domain Specific Factors}{45}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Practical Implications}{46}{section.5.3}%
-\contentsline {chapter}{\numberline {6}Conclusion}{48}{chapter.6}%
-\contentsline {chapter}{\numberline {7}Zusammenfassung (German conclusion)}{49}{chapter.7}%
-\contentsline {chapter}{\nonumberline Bibliography}{50}{chapter*.9}%
-\contentsline {chapter}{Glossary of Mentioned Software and Services}{71}{section*.10}%
-\contentsline {chapter}{Appendix \numberline {A}Interview Guide}{74}{appendix.a.A}%
-\contentsline {chapter}{Appendix \numberline {B}Category System}{78}{appendix.a.B}%
-\contentsline {chapter}{Appendix \numberline {C}Consent Form}{81}{appendix.a.C}%
+\contentsline {section}{\numberline {5.2}Context and Domain Specific Factors}{46}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Practical Implications}{47}{section.5.3}%
+\contentsline {chapter}{\numberline {6}Conclusion}{49}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Zusammenfassung (German Summary)}{51}{chapter.7}%
+\contentsline {chapter}{\nonumberline Bibliography}{52}{chapter*.10}%
+\contentsline {chapter}{Glossary of Mentioned Software and Services}{73}{section*.11}%
+\contentsline {chapter}{Appendix \numberline {A}Interview Guide}{76}{appendix.a.A}%
+\contentsline {chapter}{Appendix \numberline {B}Category System}{80}{appendix.a.B}%
+\contentsline {chapter}{Appendix \numberline {C}Consent Form}{83}{appendix.a.C}%

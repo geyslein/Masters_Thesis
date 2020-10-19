@@ -2,46 +2,46 @@ This is BibTeX, Version 0.99d (TeX Live 2020/Arch Linux)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: thesis_RG.aux
 The style file: apalike.bst
-Reallocated field_info (elt_size=8) to 10544 items from 5000.
+Reallocated field_info (elt_size=8) to 10588 items from 5000.
 Database file #1: ../../Literatur/UB.bib
-You've used 252 entries,
+You've used 254 entries,
             1935 wiz_defined-function locations,
-            2000 strings with 55521 characters,
-and the built_in function-call counts, 107902 in all, are:
-= -- 10388
-> -- 5300
-< -- 210
-+ -- 1956
-- -- 1858
-* -- 9460
-:= -- 18935
-add.period$ -- 781
-call.type$ -- 252
-change.case$ -- 2173
-chr.to.int$ -- 250
-cite$ -- 252
-duplicate$ -- 3830
-empty$ -- 6990
-format.name$ -- 2232
-if$ -- 20774
+            2011 strings with 55864 characters,
+and the built_in function-call counts, 108544 in all, are:
+= -- 10452
+> -- 5314
+< -- 212
++ -- 1960
+- -- 1862
+* -- 9509
+:= -- 19049
+add.period$ -- 787
+call.type$ -- 254
+change.case$ -- 2184
+chr.to.int$ -- 252
+cite$ -- 254
+duplicate$ -- 3858
+empty$ -- 7043
+format.name$ -- 2238
+if$ -- 20900
 int.to.chr$ -- 3
 int.to.str$ -- 0
-missing$ -- 244
-newline$ -- 1260
-num.names$ -- 765
-pop$ -- 1835
+missing$ -- 247
+newline$ -- 1270
+num.names$ -- 771
+pop$ -- 1845
 preamble$ -- 1
-purify$ -- 2184
+purify$ -- 2196
 quote$ -- 0
-skip$ -- 2932
+skip$ -- 2953
 stack$ -- 0
-substring$ -- 6922
-swap$ -- 490
+substring$ -- 6971
+swap$ -- 492
 text.length$ -- 34
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1480
+type$ -- 1490
 warning$ -- 0
-while$ -- 848
+while$ -- 854
 width$ -- 0
-write$ -- 3263
+write$ -- 3289
