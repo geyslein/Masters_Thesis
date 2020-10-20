@@ -228,9 +228,9 @@ Borgman, C.~L. (2009).
 \newblock In {\em astro2010: The Astronomy and Astrophysics Decadal Survey},
   volume 2010.
 
-\bibitem[Bourdieu and Pratique, 1994]{Bourdieu1994}
-Bourdieu, P. and Pratique, R. (1994).
-\newblock Sur la th{\'e}orie de l'action.
+\bibitem[Bourdieu, 1994]{Bourdieu1994}
+Bourdieu, P. (1994).
+\newblock Raisons pratiques: Sur la th{\'e}orie de l'action.
 \newblock {\em Editions du Seuil}.
 
 \bibitem[B{\o}yum and Aab{\o}, 2015]{Boyum2015}
@@ -703,10 +703,17 @@ Heyer, G., Kahmann, C., and Kantner, C. (2019).
   Gesellschaft (Workshop-Beitr{\"{a}}ge)}, pages 175--180, Bonn. Gesellschaft
   f{\"{u}}r Informatik e.V.
 
-\bibitem[Hj{\o}rland, 2002]{Hjorland2002}
-Hj{\o}rland, B. (2002).
+\bibitem[Hj{\o}rland, 2002a]{Hjorland2002}
+Hj{\o}rland, B. (2002a).
 \newblock Domain analysis in information science.
 \newblock {\em Journal of Documentation}, 58(4):422--462.
+
+\bibitem[Hj{\o}rland, 2002b]{Hjorland2002a}
+Hj{\o}rland, B. (2002b).
+\newblock Epistemology and the socio-cognitive perspective in information
+  science.
+\newblock {\em Journal of the American Society for Information Science and
+  Technology}, 53(4):257--270.
 
 \bibitem[Hj{\o}rland and Albrechtsen, 1995]{Hjorland1995}
 Hj{\o}rland, B. and Albrechtsen, H. (1995).
@@ -914,6 +921,12 @@ Liew, C.~L. and Ng, S.~N. (2006).
 \newblock Beyond the notes: A qualitative study of the information-seeking
   behavior of ethnomusicologists.
 \newblock {\em The Journal of Academic Librarianship}, 32(1):60--68.
+
+\bibitem[Lin, 2012]{Lin2012}
+Lin, Y.-w. (2012).
+\newblock {\em Transdisciplinarity and Digital Humanities: Lessons Learned from
+  Developing Text-Mining Tools for Textual Analysis}, pages 295--314.
+\newblock Palgrave Macmillan UK, London.
 
 \bibitem[Liyana and Noorhidawati, 2017]{Liyana2017}
 Liyana, S. and Noorhidawati, A. (2017).
@@ -1445,6 +1458,13 @@ van Zundert, J. (2012).
   a dead end for digital humanities.
 \newblock {\em Historical Social Research / Historische Sozialforschung}, 37(3
   (141)):165--186.
+
+\bibitem[Van~Zundert et~al., 2012]{VanZundert2012}
+Van~Zundert, J., Antonijevic, S., Beaulieu, A., van Dalen-Oskam, K.,
+  Zeldenrust, D., and Andrews, T.~L. (2012).
+\newblock Cultures of formalisation: towards an encounter between humanities
+  and computing.
+\newblock In {\em Understanding digital humanities}, pages 279--294. Springer.
 
 \bibitem[Veinot, 2007]{Veinot2007}
 Veinot, T.~C. (2007).
