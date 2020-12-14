@@ -1,4 +1,5 @@
 # Masters Thesis
+[![DOI](https://zenodo.org/badge/224473608.svg)](https://zenodo.org/badge/latestdoi/224473608)
 
 __Topic__: Seeking Research Software: A Qualitative Study of Humanities Scholars' Information Seeking Practices.
 
